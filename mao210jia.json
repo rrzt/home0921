@@ -11,7 +11,8 @@
    //// "spider": "https://gitee.com/rrzt188/home/raw/master/spider2207.jar",
   // "spider":"https://raw.iqiq.io/liu673cn/box/main/sub/jar/2915.jar;md5;3D691EE14AFB7DD2AC3C7D70AE22C279",
   "spider":"https://raw.iqiq.io/rrzt/home/master/jar/2915.jar",
-  
+ 
+
 
   //"spider":"https://raw-gh.gcdn.mirr.one/liu673cn/box/main/jar/spider2207.jar;md5;727C472F6F06E2958FF50FBD0C2AAE21",
   "sites": [ 
@@ -19,10 +20,16 @@
 {"key":"csp_Kuaikan"       ,"name":"🐞快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_ikan"          ,"name":"🐞爱看影视","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple"     ,"name":"🐞小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "360_spider"     ,"name":"🐞360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+{"key": "csp_77"         ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_Bttoo"      ,"name":"🐞两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"Lezhu_spider","name": "🐞乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://raw.iqiq.io/rrzt/box/master/sub/jar/0831.jar;md5;1D8BE264384C9171C974CADB55E50541"},
+{"key":"csp_Smdyy","name":"🦄神马影院","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://raw.iqiq.io/rrzt/box/master/sub/jar/0831.jar;md5;1D8BE264384C9171C974CADB55E50541"},
+	{"key":"csp_QQ","name":"🍅腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/rrzt/home/master/ext/qq_qiyi_mgtv.jpg"},
+{"key":"csp_IQIYI","name":"🥝爱奇艺(官)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/rrzt/home/master/ext/qq_qiyi_mgtv.jpg"},
+{"key":"csp_MGTV","name":"🍋芒果TV(官)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/rrzt/home/master/ext/qq_qiyi_mgtv.jpg"},
 //{"key": "csp_GitCafe"    ,"name":"🐞阿里纸条","type":3,"api":"csp_GitCafbse","searchable":1,"quickSearch":1,"filterable":1},  
 //{"key": "csp_AliPanSou"  ,"name":"🐞阿里喵搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key": "csp_77"         ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_CZSPP"      ,"name":"🐞厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Buka"       ,"name":"🐞真不卡","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Zxzj"       ,"name":"🐞在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},  
@@ -30,16 +37,16 @@
 {"key": "csp_DY1990"     ,"name":"🐞九零影视","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Qicui"      ,"name":"🐞奇粹影视","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 //{"key": "csp_kuaikan"    ,"name":"🐞快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_Bttoo"      ,"name":"🐞两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "360_spider"     ,"name":"🐞360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+
+
 //
 {"key": "csp_dd5555","name": "🐞555影视","api": "csp_Dy555","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar":"https://raw.iqiq.io/rrzt/box/master/sub/jar/0831.jar;md5;1D8BE264384C9171C974CADB55E50541"},
-{"key":"Lezhu_spider","name": "🐞乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://raw.iqiq.io/rrzt/box/master/sub/jar/0831.jar;md5;1D8BE264384C9171C974CADB55E50541"},
-{"key":"csp_Smdyy","name":"🦄神马影院","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://raw.iqiq.io/rrzt/box/master/sub/jar/0831.jar;md5;1D8BE264384C9171C974CADB55E50541"},
+
+
 {"key":"csp_ZJMiao","name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/rrzt/box/master/sub/jar/0831.jar;md5;1D8BE264384C9171C974CADB55E50541"},
 //{"key":"csp_KanSJ","name":"🐞看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://raw.iqiq.io/rrzt/box/master/sub/jar/0831.jar;md5;1D8BE264384C9171C974CADB55E50541"},
 {"key":"csp_Mjxq","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/rrzt/box/master/sub/jar/0831.jar;md5;1D8BE264384C9171C974CADB55E50541"},
-{"key":"csp_SP293","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1","jar":"https://raw.iqiq.io/rrzt/box/master/sub/jar/0831.jar;md5;1D8BE264384C9171C974CADB55E50541"},
+//{"key":"csp_SP293","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1","jar":"https://raw.iqiq.io/rrzt/box/master/sub/jar/0831.jar;md5;1D8BE264384C9171C974CADB55E50541"},
 //
 //{"key":"csp_IKan","name":"🐞爱看HD","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://gitee.com/rrzt188/box/raw/master/sub/ext/IKan.jpg"},
 
@@ -48,11 +55,6 @@
 {"key":"csp_JianYing","name":"🔥简影(SP)","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY","jar":"https://raw.iqiq.io/rrzt/box/master/sub/jar/box281.jar"},
 //{"key":"csp_SP293","name":"🔥293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/rrzt/box/master/sub/jar/0831.jar;md5;1D8BE264384C9171C974CADB55E50541"},
 {"key":"csp_Kmys","name":"🔥酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/box/raw/master/sub/ext/kmys.txt"},
-	{"key":"csp_QQ","name":"🍅腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/rrzt/home/master/ext/qq_qiyi_mgtv.jpg"},
-{"key":"csp_IQIYI","name":"🥝爱奇艺(官)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/rrzt/home/master/ext/qq_qiyi_mgtv.jpg"},
-{"key":"csp_MGTV","name":"🍋芒果TV(官)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/rrzt/home/master/ext/qq_qiyi_mgtv.jpg"},
-
-
 {"key":"csp_Tkys","name":"🐞天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/rrzt/box/master/sub/jar/0831.jar;md5;1D8BE264384C9171C974CADB55E50541"},
 	  //{"key": "csp_LiteApple"  ,"name":"🐞苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_BBB"        ,"name":"🐞bilibili","type": 3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -69,14 +71,14 @@
 {  "key": "csp_Cokemv",  "name": "Cokemv(爬虫)",  "type": 3,  "api": "csp_Cokemv",  "searchable": 1,  "quickSearch": 1,  "filterable": 1},
   {"key": "csp_YydsAli1","name": "YYDS阿里(爬虫)","type": 3,"api": "csp_YydsAli1","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key": "csp_Ysgc","name": "影视工厂(爬虫)","type": 3,"api": "csp_Ysgc","searchable": 1,"quickSearch": 0,"filterable": 1},
-{"key": "csp_N0ys","name": "90影视(爬虫)","type": 3,"api": "csp_N0ys","searchable": 1,"quickSearch": 0,"filterable": 1},
-{"key": "csp_Nekk","name": "9E看看(爬虫)","type": 3,"api": "csp_Nekk","searchable": 1,"quickSearch": 0,"filterable": 1  },
-  {"key": "csp_Djx","name": "瓜皮TV(爬虫)","type": 3,"api": "csp_Djx","searchable": 1,"quickSearch": 0,"filterable": 1  },
-  {"key": "csp_Imaple","name": "枫林网(爬虫)","type": 3,"api": "csp_Imaple","searchable": 1,"quickSearch": 0,"filterable": 1  },
-  {"key": "csp_Jumi","name": "剧迷(爬虫)","type": 3,"api": "csp_Jumi","searchable": 1,"quickSearch": 0,"filterable": 1  },  
-{"key": "csp_Enlienli","name": "嗯哩嗯哩(爬虫)","type": 3,"api": "csp_Enlienli","searchable": 1,"quickSearch": 0,"filterable": 1},  
-{"key": "csp_EPangApp", "name": "阿房影视(爬虫)", "type": 3, "api": "csp_EPangApp", "searchable": 1, "quickSearch": 0, "filterable": 1  }, 
-{ "key": "csp_Nfx",   "name": "NFXHD(爬虫)",   "type": 3,   "api": "csp_Nfx",   "searchable": 1,   "quickSearch": 0,   "filterable": 1 },
+{"key": "csp_N0ys","name": "90影视(爬虫)","type": 3,"api": "csp_N0ys","searchable": 1,"quickSearch": 0,"filterable": 1,"jar":"https://raw.iqiq.io/rrzt/home/master/spider2207.jar"  },
+{"key": "csp_Nekk","name": "9E看看(爬虫)","type": 3,"api": "csp_Nekk","searchable": 1,"quickSearch": 0,"filterable": 1 ,"jar":"https://raw.iqiq.io/rrzt/home/master/spider2207.jar"   },
+ {"key": "csp_Djx","name": "瓜皮TV(爬虫)","type": 3,"api": "csp_Djx","searchable": 1,"quickSearch": 0,"filterable": 1 ,"jar":"https://raw.iqiq.io/rrzt/home/master/spider2207.jar"   },
+ {"key": "csp_Imaple","name": "枫林网(爬虫)","type": 3,"api": "csp_Imaple","searchable": 1,"quickSearch": 0,"filterable": 1 ,"jar":"https://raw.iqiq.io/rrzt/home/master/spider2207.jar" },
+{"key": "csp_Jumi","name": "剧迷(爬虫)","type": 3,"api": "csp_Jumi","searchable": 1,"quickSearch": 0,"filterable": 1,"jar":"https://raw.iqiq.io/rrzt/home/master/spider2207.jar"  },  
+{"key": "csp_Enlienli","name": "嗯哩嗯哩(爬虫)","type": 3,"api": "csp_Enlienli","searchable": 1,"quickSearch": 0,"filterable": 1,"jar":"https://raw.iqiq.io/rrzt/home/master/spider2207.jar" },  
+{"key": "csp_EPangApp", "name": "阿房影视(爬虫)", "type": 3, "api": "csp_EPangApp", "searchable": 1, "quickSearch": 0, "filterable": 1 ,"jar":"https://raw.iqiq.io/rrzt/home/master/spider2207.jar" }, 
+{ "key": "csp_Nfx",   "name": "NFXHD(爬虫)",   "type": 3,   "api": "csp_Nfx",   "searchable": 1,   "quickSearch": 0,   "filterable": 1,"jar":"https://raw.iqiq.io/rrzt/home/master/spider2207.jar" },
 //
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/rrzt/home/master/jar/0907.jar"},
 {"key":"csp_KanSJ","name":"🗺看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://raw.iqiq.io/rrzt/home/master/jar/0907.jar"},
