@@ -79,6 +79,11 @@
 
 {"key":"bdys","name":"💥哔嘀磁力(慎用)","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/rrzt188/box/raw/master/sub/meowxp/bdys01.json","jar": "https://raw.iqiq.io/rrzt/box/master/sub/ext/cili.jpg"},
 {"key":"csp_biubiu_哔嘀影视","name":"哔嘀影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/rrzt/box/master/sub/meowxb/哔嘀影视.json"},
+{"key":"t4public","name":"📡合集(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",  "searchable": 1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/0907.jar"},
+{"key":"t4_公共","name":"📡公共(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"t4_搜片","name":"📡搜片(T4)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"t4_合集","name":"📡合集(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",  "searchable": 1,"quickSearch":1,"filterable":1},
+{"key":"t4_聚合","name":"📡聚合(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
 //爬虫
 
 
