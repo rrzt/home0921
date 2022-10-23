@@ -376,7 +376,7 @@
 //type3
 {key:'csp_appysv2_ysp',name:'氢视频',type:3,api:'csp_AppYsV2',searchable:1,quickSearch:1,filterable:1,ext:'http://h1080p.com/xgapp.php/v2/'},
 //
-.rrzyw.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
 //{"key":"人人影视","name":"人人影视(优)","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_appysv2_柚子视频1","name":"柚子视频1(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://yz.26ys.cn/api.php/v1.vod"},
  {"key":"csp_appysv2_段友影视","name":"🐝段友影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
