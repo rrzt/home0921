@@ -79,6 +79,7 @@
 //{"key": "csp_AliPanSou"  ,"name":"🐞阿里喵搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "csp_Kmys"       ,"name":"🐞酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_ikan"          ,"name":"🐞爱看影视","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
+ {"key": "drpy_js_豆瓣", "name": "🔥豆瓣热播┃JS", "type": 3, "api": "./lib/drpy.min.js", "ext": "./js/豆瓣.js"},
 {key:'t4群',name:'T4-首页',type:4,api:'https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=bdys01,cokemv&timeout=10',searchable:1,quickSearch:1,filterable:1},
 {key:'T4_douban',name:'影视推荐(T4)',type:4,api:'http://top.fuqizhishi.com/vod',searchable:1,quickSearch:1,filterable:1},
 {key:'t4public',name:'T4低端',type:4,api:'https://t4.secan.icu/vod?sites=voflix,ddys&timeout=10',searchable:1,quickSearch:1,filterable:0},
@@ -3114,7 +3115,8 @@
  {"name": "回响解析",  "type": 0, "url": "https://hxys.tv/bfq/?url=" }, 
  {"name": "bili解析", "type": 0,  "url": "http://player.nwctfw.com:80/index2022188.php?url="}, 
  {"name": "AG超能","type": 0, "url": "https://ksksl.codjx.com/?url=" }, 
-{"name":"测试1","type":0,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+{"name":"江湖1080","type":0,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+ 
 //{"name":"QIM解3","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","搜狐","sohu","letv","乐视","bilibili","哔哩哔哩","哔哩","xigua","西瓜","1905","ltnb","renrenmi","rx","rongxing"]}},
 {"name":"神3","type":0,"url":"http://api.ckflv.cn/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","搜狐","sohu","letv","乐视","bilibili","哔哩哔哩","哔哩","xigua","西瓜","1905","ltnb","renrenmi","rx","rongxing"]}},
 {name:'So丶',type:0,url:' https://tljiaqing.nde.tw/m3u8/?url='},
