@@ -17,7 +17,6 @@
 {"key":"csp_AliPanSou"     ,"name":"🐞云喵搜📵","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_biubiu_YYDS影院","name":"🐛YYDS影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://rrzt.coding.net/p/catys/d/maotv/git/raw/master/mao/sub/biubiu/YYDS影院.json"},
 
-{"key":"18","name":"🔞🈲㊙未成年人禁止访问！","type":0,"api":"","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/jar/0820.jar;md5;F49657B939A9134AD6B947CCB9390E99"},
 {"key":"ck","name":"🎀CK资源","type":0,"api":"https://ckzy.me/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/0820.jar"},
 {"key":"kd","name":"🎀酷豆","type":0,"api":"https://api.kdapi.info/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/0820.jar"},
 {"key":"kulunli","name":"🎀酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/0820.jar"},
