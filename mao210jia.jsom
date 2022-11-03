@@ -79,7 +79,7 @@
 //{"key": "csp_AliPanSou"  ,"name":"🐞阿里喵搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "csp_Kmys"       ,"name":"🐞酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_ikan"          ,"name":"🐞爱看影视","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
- {"key": "drpy_js_豆瓣", "name": "🔥豆瓣热播┃JS", "type": 3, "api": "./lib/drpy.min.js", "ext": "./js/豆瓣.js"},
+ {"key": "drpy_js_豆瓣", "name": "🔥豆瓣热播┃JS", "type": 3, "api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy.min.js", "ext": "https://gitee.com/rrzt188/home/raw/master/js/豆瓣.js"},
 {key:'t4群',name:'T4-首页',type:4,api:'https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=bdys01,cokemv&timeout=10',searchable:1,quickSearch:1,filterable:1},
 {key:'T4_douban',name:'影视推荐(T4)',type:4,api:'http://top.fuqizhishi.com/vod',searchable:1,quickSearch:1,filterable:1},
 {key:'t4public',name:'T4低端',type:4,api:'https://t4.secan.icu/vod?sites=voflix,ddys&timeout=10',searchable:1,quickSearch:1,filterable:0},
