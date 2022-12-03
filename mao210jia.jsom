@@ -252,7 +252,7 @@
 {"key":"csp_biubiu_139影视","name":"🐛139影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/mao/sub/biubiu/139影视.json"}, 
 //json end
 //js start
-{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://gitee.com/lhacpt623/tvbox/raw/master/lib/alist.min.js","ext":"https://gitee.com/lhacpt623/tvbox/raw/master/js/alist.json"},
+
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://gitee.com/lhacpt623/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/lhacpt623/tvbox/raw/master/js/drpy.js"},
 {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"https://gitee.com/lhacpt623/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/lhacpt623/tvbox/raw/master/js/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"https://gitee.com/lhacpt623/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/lhacpt623/tvbox/raw/master/js/奇珍异兽.js"},
@@ -302,7 +302,7 @@
 {"key":"drpy_js_2099电影","name":"影视 | 2099电影[js]","type":3,"api":"https://gitee.com/lhacpt623/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/lhacpt623/tvbox/raw/master/js/2099电影.js"},
 {"key":"drpy_js_348电影网","name":"影视 | 348电影网[js]","type":3,"api":"https://gitee.com/lhacpt623/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/lhacpt623/tvbox/raw/master/js/348电影网.js"},
 {"key":"drpy_js_69美剧","name":"影视 | 69美剧[js]","type":3,"api":"https://gitee.com/lhacpt623/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/lhacpt623/tvbox/raw/master/js/69美剧.js"},
-{"key":"drpy_js_7喜影院","name":"影视 | 7喜影院[js]","type":3,"api":"https://gitee.com/lhacpt623/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/lhacpt623/tvbox/raw/master/js/7喜影院.js"},
+
 {"key":"drpy_js_8号影院","name":"影视 | 8号影院[js]","type":3,"api":"https://gitee.com/lhacpt623/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/lhacpt623/tvbox/raw/master/js/8号影院.js"},
 {"key":"drpy_js_99影院","name":"影视 | 99影院[js]","type":3,"api":"https://gitee.com/lhacpt623/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/lhacpt623/tvbox/raw/master/js/99影院.js"},
 {"key":"drpy_js_9U电影","name":"影视 | 9U电影[js]","type":3,"api":"https://gitee.com/lhacpt623/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/lhacpt623/tvbox/raw/master/js/9U电影.js"},
@@ -642,7 +642,7 @@
 {"key":"csp_appysv2_阿里影视","name":"🐝阿里影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://aliys.cn:90/api.php/v1.vod"},
 
 //
-{key:'南瓜影视',name:'南瓜影视',type:1,api:'http://www.cqxblaw.com//api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
+
 {"key":"阿里影视","name":"阿里影视(聚)","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xml_飞速采集","name":"🐝飞速采集","type":1,"api":"https://m3u8.feisuzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"filterable": 1,"quickSearch":1},
 {"key":"csp_xml_飞速资源","name":"🐝飞速资源","type":1,"api":"http://fszy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"filterable": 1,"quickSearch":1},
@@ -705,7 +705,7 @@
 "filterable": 1},
 {"key":"土狗官采","name":"🐝土狗官采(官)","type":1,"api":"http://vip-02.tgzy.cc/api.php/provide/vod/","searchable":0,"quickSearch":1,"filterable":1},
 {"key":"首涂官采","name":"🐝首涂官采(官)","type":1,"api":"http://zy.ishoutu.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"木子看剧","name":"🐝木子看剧(官)","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"天空资源","name":"🐝天空资源(切)","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"雪人官采","name":"🐝雪人官采(官)","type":1,"api":"https://zl.chinafix.wang/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
