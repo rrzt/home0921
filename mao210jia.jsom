@@ -13,10 +13,8 @@
  // "spider":"https://raw.iqiq.io/rrzt/home/master/jar/2915.jar",
  //"spider":"https://gitee.com/rrzt188/home/raw/master/jar/2915.jar",
  "spider":"https://gitee.com/rrzt188/home/raw/master/jar/1025.jar",
+ "lives":[{"name":"综合一","type":0,"url":"./list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 
-"sites":[
-{"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"🐰tutu┃SP","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 
   //"spider":"https://raw-gh.gcdn.mirr.one/liu673cn/box/main/jar/spider2207.jar;md5;727C472F6F06E2958FF50FBD0C2AAE21",
   "sites": [ 
