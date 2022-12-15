@@ -18,7 +18,10 @@
 //"lives":[{"name":"综合一","type":0,"epg":"http://epg.51zmt.top:8000/difang.xml"}],
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=https://gitea.com/rrzthz/home/raw/branch/master/zhibo/list.txt"]}]}],
 
-
+"rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
+{"host":"*","rule":["huoshan.com","/item/video/"]},
+{"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
+{"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
 
 
   //"spider":"https://raw-gh.gcdn.mirr.one/liu673cn/box/main/jar/spider2207.jar;md5;727C472F6F06E2958FF50FBD0C2AAE21",
