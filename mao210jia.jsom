@@ -263,11 +263,11 @@
 {"key":"drpy_js_追剧啦儿","name":"影视 | 追剧啦儿[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/追剧啦.js"},
 {"key":"drpy_js_子子影视","name":"影视 | 子子影视[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/子子影视.js"},
 //2022年12月17日
-{"key": "drpy_js_豆芽影院","name": " 🎑豆芽影院[DRPY]","type": 3,"api": "./libs/drpy.min.js","ext": "./Js/豆芽影院.js"},
-{"key": "drpy_js_独播库","name": " 🎑独播库[DRPY]","type": 3,"api": "./libs/drpy.min.js","ext": "./Js/独播库.js"},
+{"key": "drpy_js_豆芽影院","name": " 🎑豆芽影院[DRPY]","type": 3,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext": "https://gitee.com/rrzt188/home/raw/master/js/豆芽影院.js"},
+{"key": "drpy_js_独播库","name": " 🎑独播库[DRPY]","type": 3,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext": "https://gitee.com/rrzt188/home/raw/master/js/独播库.js"},
 {"key": "drpy_js_新视觉影视","name": " 🎑新视觉影视[DRPY]","type": 3,"api": "./libs/drpy.min.js","ext": "./Js/新视觉影视.js"},
-{"key": "drpy_js_HoHo影视","name": " 🎑HoHo影视[DRPY]","type": 3,"api": "./libs/drpy.min.js","ext": "./Js/HoHo影视.js"},
-{"key": "drpy_js_落攻阁影视","name": " 🎑落攻阁影视[DRPY]","type": 3,"api": "./libs/drpy.min.js","ext": "./Js/落攻阁影视.js"},
+{"key": "drpy_js_HoHo影视","name": " 🎑HoHo影视[DRPY]","type": 3,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext": "https://gitee.com/rrzt188/home/raw/master/js/影视.js"},
+{"key": "drpy_js_落攻阁影视","name": " 🎑落攻阁影视[DRPY]","type": 3,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext": "https://gitee.com/rrzt188/home/raw/master/js/落攻阁影视.js"},
 
 //js end
 
