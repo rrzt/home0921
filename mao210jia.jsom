@@ -127,7 +127,7 @@
 {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/奇珍异兽.js"},
 //{"key": "drpy_js_优酷","name": "优酷[js]","type": 3,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy3.min.js","ext": "https://gitee.com/rrzt188/home/raw/master/js/优酷.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/1008.jar},
-{"key": "drpy_js_优酷","name": " 🎑优酷[DRPY]","type": 3,"api": "./lib/drpy3.min.js","ext": "./js/优酷1.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/1008.jar"},
+
 //{"key":"drpy_js_优酷","name":"🎑优酷[DRPY]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy3.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/优酷1.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/1008.jar"},
 {"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/腾云驾雾.js"},
 {"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/百忙无果.js"},
@@ -270,7 +270,7 @@
 {"key": "drpy_js_新视觉影视","name": " 🎑新视觉影视[DRPY]","type": 3,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy3.min.js","ext": "https://gitee.com/rrzt188/home/raw/master/js/新视觉影视.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/1008.jar"},
 {"key": "drpy_js_HoHo影视","name": " 🎑HoHo影视[DRPY]","type": 3,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy3.min.js","ext": "https://gitee.com/rrzt188/home/raw/master/js/HoHo影视.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/1008.jar"},
 {"key": "drpy_js_落攻阁影视","name": " 🎑落攻阁影视[DRPY]","type": 3,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext": "https://gitee.com/rrzt188/home/raw/master/js/落攻阁影视.js"},
-
+{"key": "drpy_js_优酷","name": " 🎑优酷[DRPY]","type": 3,"api": "./lib/drpy3.min.js","ext": "./js/优酷1.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/1008.jar"},
 //js end
 
 //json//
