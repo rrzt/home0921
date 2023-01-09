@@ -14,7 +14,7 @@
  //"spider":"https://gitee.com/rrzt188/home/raw/master/jar/2915.jar",
  "spider":"https://gitee.com/rrzt188/home/raw/master/jar/1025.jar",
  //"lives":[{"name":"综合一","type":0,"url":"https://gitea.com/rrzthz/home/raw/branch/master/zhibo/list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
-
+"wallpaper": "https://gitee.com/rrzt188/home/raw/master/pic/wallpaper.jpg",
 //"lives":[{"name":"综合一","type":0,"epg":"http://epg.51zmt.top:8000/difang.xml"}],
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=https://gitea.com/rrzthz/home/raw/branch/master/zhibo/list.txt"]}]}],
 //"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=https://ghproxy.com/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/1217.txt"]}]}],
