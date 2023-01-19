@@ -4,6 +4,8 @@ var rule = {
     homeUrl:'https://api.web.360kan.com/v1/rank?cat=2&size=9',
     detailUrl:'https://api.web.360kan.com/v1/detail?cat=fyclass&id=fyid',
     searchUrl:'https://api.so.360kan.com/index?force_v=1&kw=**&from=&pageno=fypage&v_ap=1&tab=all',
+    
+    filterable:1,
     url:'https://api.web.360kan.com/v1/filter/list?catid=fyclass&rank=rankhot&cat=&year=&area=&act=&size=35&pageno=fypage&callback=',
     headers:{
         'User-Agent':'MOBILE_UA'
