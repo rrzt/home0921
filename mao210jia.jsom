@@ -127,6 +127,8 @@
   { "key":"teng", "name":"🐧腾讯官源","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/you.jar"  },
 {"key":"csp_Lgyy","name":"🌀蓝光影视","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/you.jar"},
 {"key":"csp_Yht","name":"🍀野荷塘","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc","jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile.jar"},
+{"key":"csp_panghu","name":"🐯胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile.jar"},
+{"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.tv","jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile.jar"},
 //爬虫
 //js start
 
