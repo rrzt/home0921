@@ -2775,7 +2775,8 @@
 //{"name":"GGTV聚合","type": 0,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe&url="},
 //{"name":"QI解06","type":1,"url":"http://103.40.240.46/jh/?url=","ext":{"flag":["renrenmi","qq","腾讯","youku","优酷","mgtv","芒果","xigua","西瓜"]}},
 //测试
-  {"name": "1717云全","type": 0,"url": "https://www.1717yun.com/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+  {"name": "1717云全","type": 0,"url": "https://www.1717yun.com/jiexi/?url=","header": {"User-Agent": "Mozilla/5.0"}},
+{"name":"QIM06","type":0,"url":"https://jx.zui.cm/?url=","header": {"User-Agent": "Mozilla/5.0"}},
 
 {"name":"91","url":"http://91fanli.top/m3u8/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 //测试
@@ -2798,7 +2799,7 @@
 {"name":"GGTV搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","搜狐","sohu","letv","乐视","bilibili","哔哩哔哩","哔哩","xigua","西瓜","1905","ltnb","renrenmi","rx","rongxing"]}},
 //{"name":"GGTV自用", "type": 0, "url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobaiiii&url=", "ext": { "flag": [ "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "CL4K", "renrenmi", "ltnb", "bilibili", "1905", "xigua" ] } },
 {"name":"GGTV搜集1","type":0,"url":"https://vip.fuqizhishi.com/?v=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","搜狐","sohu","letv","乐视","bilibili","哔哩哔哩","哔哩","xigua","西瓜","1905","ltnb","renrenmi","rx","rongxing"]}},
-//测试
+
 {"name":"线路5","type":1,"url":"https://jx.hfyrw.com/mao.go?url="},
 {"name":"线路6","type":0,"url":"http://jiexi.mmhkj.xyz/home/api?type=ys&uid=4187535&key=enpstuBEJKLNPUXZ19&url="},
 {"name":"线路7","type":0,"url":"https://app.okmedcos.com/4k/?url="},
