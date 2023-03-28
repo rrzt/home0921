@@ -816,64 +816,7 @@
       "categories": []
     },
 
- {
-        "key": "lezhu",
-        "name": "乐猪爬虫",
-        "type": 1,
-        "api": "http://pandown.pro/mao/lezhu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
- {
-        "key": "chuxin",
-        "name": "初心爬虫",
-        "type": 1,
-        "api": "http://pandown.pro/mao/chuxin.php"
-    },
-    {
-        "key": "buka",
-        "name": "不开VIP爬虫",
-        "type": 1,
-        "api": "http://pandown.pro/mao/buka.php"
-    },
-
-    {
-        "key": "xmkk",
-        "name": "熊猫看看爬虫",
-        "type": 1,
-        "api": "http://pandown.pro/mao/xmkk.php"
-    },
-        {
-        "key": "nekk",
-        "name": "九亿爬虫",
-        "type": 1,
-        "api": "http://pandown.pro/mao/nekk.php"
-    },
-{
-        "key": "xuangz",
-        "name": "六度爬虫",
-        "type": 1,
-        "api": "http://pandown.pro/mao/xuangz.php"
-    },
-    {
-        "key": "libvio",
-        "name": "libvio爬虫",
-        "type": 1,
-        "api": "http://pandown.pro/mao/libvio.php"
-    },
-    {
-        "key": "ysgc",
-        "name": "毒蛇爬虫",
-        "type": 1,
-        "api": "http://pandown.pro/mao/ysgc.php"
-    },
-{
-        "key": "tv552",
-        "name": "迪迪爬虫",
-        "type": 1,
-        "api": "http://pandown.pro/mao/tv552.php"
-    },
+ 
     {
       "key": "热播剧",
       "name": "热播剧",
