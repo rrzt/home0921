@@ -30,7 +30,8 @@
 //爬虫
 {"key":"csp_Kuaikan" ,"name":"🐞快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple"     ,"name":"🐞小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "360_spider"     ,"name":"🐞360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+//{"key": "360_spider"     ,"name":"🐞360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+{"key":"SP360","name":"💘360影视(官)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC.jar"},
 //{key:"csp_fant",name:"🐞饭团",api:"csp_Fantuan",type:3,filterable:1,quickSearch:1,searchable:1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fantuan.jar"},
 {"key":"csp_fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com","jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC.jar"},
 {"key": "csp_77"         ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -150,10 +151,20 @@
 //js start
 
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/drpy.js"},
+{"key":"爱奇异","name":"🥝爱奇艺(官)","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/blob/master/js/aiqiyi.js"},
+{"key":"优酷","name":"👑优酷(官)","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/blob/master/js/youku.js"},
+{"key":"腾讯","name":"🐧腾讯(官)","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/blob/master/js/tengxun.js"},
+{"key":"芒果","name":"🥭芒果(官)","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/blob/master/js/mangguo.js"},
+{"key":"搜狗","name":"🐼搜狗(官)","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/blob/master/js/caigou.js"},
 {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/奇珍异兽.js"},
+{"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/腾云驾雾.js"},
+{"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/百忙无果.js"},
 //{"key": "drpy_js_优酷","name": "优酷[js]","type": 3,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy3.min.js","ext": "https://gitee.com/rrzt188/home/raw/master/js/优酷.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/1008.jar},
 {"key":"LIBVIO","name":"🔷LibVio","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/LIBVIO.js"},
+{"key":"兄弟影视","name":"🍀兄弟影视","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/xiongdiyingshi.js"},
+{"key":"大师兄影视","name":"🍀大师兄影视","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/dashixiongyingshi.js"},
+{"key":"创艺影视","name":"🍀创艺影视","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/chuangyi.js"},
 //{"key":"LIBVIO","name":"🔷LibVio","type":3,"api":"https://gitea.com/52670576/tvbox/raw/branch/master/js/lib/drpy2.min.js","ext":"https://gitea.com/52670576/tvbox/raw/branch/master/js/LIBVIO.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC.jar"},
 //{"key":"drpy_js_优酷","name":"🎑优酷[DRPY]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy3.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/优酷1.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/1008.jar"},
 {"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/腾云驾雾.js"},
@@ -239,7 +250,7 @@
 {"key":"drpy_js_剧荒影院","name":"影视 | 剧荒影院[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/剧荒.js"},
 {"key":"drpy_js_剧迷影院","name":"影视 | 剧迷影院[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/剧迷.js"},
 {"key":"drpy_js_看BZ影视","name":"影视 | 看BZ影视[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/看BZ影视.js"},
-{"key":"drpy_js_看看电影","name":"影视 | 看看电影[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/看看电影.js"},
+//{"key":"drpy_js_看看电影","name":"影视 | 看看电影[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/看看电影.js"},
 {"key":"看看电影","name":"🍀看看电影","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/kankandianying.js"},
 {"key":"drpy_js_看了么","name":"影视 | 看了么[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/看了么.js"},
 {"key":"drpy_js_看片狂人","name":"影视 | 看片狂人[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/看片狂人.js"},
@@ -2185,15 +2196,7 @@
             "quickSearch":0,
             "ext":"毒舌电影"
         },
-        {
-            "key":"csp_ysdq_大师兄",
-            "name":"大师兄(搜)",
-            "type":3,
-            "api":"csp_Ysdq",
-            "searchable":1,
-            "quickSearch":0,
-            "ext":"大师兄"
-        },
+ 
         {
             "key":"csp_ysdq_瓜皮TV",
             "name":"瓜皮TV(搜)",
