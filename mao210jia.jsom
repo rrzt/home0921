@@ -240,6 +240,7 @@
 {"key":"drpy_js_剧迷影院","name":"影视 | 剧迷影院[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/剧迷.js"},
 {"key":"drpy_js_看BZ影视","name":"影视 | 看BZ影视[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/看BZ影视.js"},
 {"key":"drpy_js_看看电影","name":"影视 | 看看电影[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/看看电影.js"},
+{"key":"看看电影","name":"🍀看看电影","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/kankandianying.js"},
 {"key":"drpy_js_看了么","name":"影视 | 看了么[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/看了么.js"},
 {"key":"drpy_js_看片狂人","name":"影视 | 看片狂人[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/看片狂人.js"},
 {"key":"drpy_js_快云影院","name":"影视 | 快云影院[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/快云影院.js"},
@@ -303,6 +304,8 @@
 //js end
 
 //json//
+
+{"key":"csp_XBPQ_ 咕噜咕噜","name":"💢咕噜咕噜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/gulugulu.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC.jar"},
 {"key":"csp_biubiu_um","name":"🍀UM影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/umkan.json"},
 {"key":"csp_xbb_tegou","name":"🍀特狗影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/tegou.json"},
 {"key":"csp_xbb_搜狗影院","name":"🍀搜狗影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/搜狗影院.json"},
@@ -342,8 +345,11 @@
 {"key":"csp_xpath_789kp","name":"🦋789看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/mao/sub/xpath/789kp.json"},
 
 {"key":"csp_xpath_乐猪TV","name": "🦋乐猪TV","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/rrzt188/home/raw/master/mao/sub/xpath/lezhutv.json"},
+{"key":"csp_XBPQ_乐猪","name":"💢乐猪","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/lezhu.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC.jar"},
 {"key":"csp_xpath_xiaoxiong","name":"🦋小熊影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/mao/sub/xpath/xiaoxiong.json"},   
 {"key":"csp_xpath_nmys","name":"🦋农民影视","type": 3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/mao/sub/xpath/nmys2.json"},
+{"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/Nmys.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC.jar"},
+
 {"key":"csp_xpath_2gangju","name":"🦋爱港剧","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/mao/sub/xpath/2gangju.json"},
 {"key":"csp_xpath_lmys","name": "🦋蓝莓影视","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/mao/sub/xpath/lmys.json"},
 
