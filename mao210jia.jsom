@@ -57,7 +57,7 @@
 {"key": "csp_Qicui"      ,"name":"🐞奇粹影视","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_AppMr","name":"👻明明影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC.jar"},
 //
-{"key": "csp_dd5555","name": "🐞555影视","api": "csp_Dy555","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/0831.jar;md5;1D8BE264384C9171C974CADB55E50541"},
+//{"key": "csp_dd5555","name": "🐞555影视","api": "csp_Dy555","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/0831.jar;md5;1D8BE264384C9171C974CADB55E50541"},
 {"key":"csp_ZJMiao","name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/0831.jar;md5;1D8BE264384C9171C974CADB55E50541"},
 {"key":"csp_Mjxq","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/0831.jar;md5;1D8BE264384C9171C974CADB55E50541"},
 {"key":"csp_Jianying","name":"简影","type":3,"api":"csp_JianYing","searchable":1,"quickSearch":1,"filterable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjo1MzE4LCJDcmVhdGVkQXQiOiIyMDIyLTAzLTE4VDE5OjI0OjM2LjkzOCswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDktMDVUMTA6NTY6MjguMDAzKzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMzExMTI0ODcwMEBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJiOGIwNmU2ZS1jZjkwLTQ1NDItYmVjMS05NDk4OGVhMDE4NGIiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo1NjoyOC4wMDIrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYzMDI2NTAyLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.m92i6og64WbwmCHYnI9CWL--Y1NwdMhvH4-Kn6FmPk8","jar":"https://gitee.com/rrzt188/home/raw/master/jar/999.png"},
@@ -129,7 +129,7 @@
 {"key":"csp_fant", "name":"🍙饭团影视", "api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/you.jar"  },
 {"key":"MGT","name":"🍋芒果官源","type":3,"api":"csp_Mgtv", "searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/you.jar" },
   { "key":"teng", "name":"🐧腾讯官源","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/you.jar"  },
-
+{"key":"csp_555","name":"5️⃣️555影视","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
 {"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip","jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC.jar"},
 //{"key":"csp_Lgyy","name":"🌀蓝光影视","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/you.jar"},
 //{"key":"csp_Yht","name":"🍀野荷塘","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc","jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile.jar"},
