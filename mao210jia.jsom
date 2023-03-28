@@ -151,7 +151,7 @@
 //js start
 
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/drpy.js"},
-{"key":"爱奇异","name":"🥝爱奇艺(官)","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/blob/master/js/aiqiyi.js"},
+{"key":"爱奇异","name":"🥝爱奇艺(官)","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/blob/master/js/aiqiyi.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC.jar"},
 {"key":"优酷","name":"👑优酷(官)","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/blob/master/js/youku.js"},
 {"key":"腾讯","name":"🐧腾讯(官)","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/blob/master/js/tengxun.js"},
 {"key":"芒果","name":"🥭芒果(官)","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/blob/master/js/mangguo.js"},
