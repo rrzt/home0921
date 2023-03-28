@@ -151,7 +151,7 @@
 //js start
 
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/drpy.js"},
-{"key":"爱奇异","name":"🥝爱奇艺(官)","type":3,"api":"https://gitea.com/52670576/tvbox/raw/branch/master/js/lib/drpy2.min.js","ext":"https://gitea.com/rrzthz/home/raw/branch/master/js/aiqiyi.js"},
+{"key":"爱奇异","name":"🥝爱奇艺(官)","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitea.com/rrzthz/home/raw/branch/master/js/aiqiyi.js"},
 //{"key":"爱奇异","name":"🥝爱奇艺(官)","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitea.com/rrzthz/home/raw/branch/master/js/aiqiyi.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC.jar"},
 //{"key":"优酷","name":"👑优酷(官)","type":3,"api":"https://gitea.com/52670576/tvbox/raw/branch/master/js/lib/drpy2.min.js","ext":"https://gitea.com/52670576/tvbox/raw/branch/master/js/youku.js"},
 {"key":"优酷","name":"👑优酷(官)","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitea.com/rrzthz/home/raw/branch/master/js/youku.js"},
