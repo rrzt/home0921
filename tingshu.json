@@ -1,6 +1,6 @@
 {
     "version": 139,
-    "entry_package": "sources_by_eprendre",
+    "entry_package": "sources_by_eprendre_1",
     "download_url": " https://gitee.com/rrzt188/home/raw/master/jar/tingshu.jar",
     //"download_url": "https://s3-us-east-1.ossfiles.com/tingshu/tingshu_source/139/sources_by_eprendre.jar",
     "update_msg": "\n修复海洋听书网",
