@@ -2765,6 +2765,7 @@
 {"name":"爱酷嗅探","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 {"name": "全民2","type": 0,"url": "https://chaxun.truechat365.com/?url=","ext":{"flag":["mgtv","芒果","bilibili","哔哩哔哩","哔哩","xigua","西瓜","1905","ltnb","renrenmi","rx","rongxing"]}},
 {"name": "解96","type": 0,"url": "https://www.8090.la/8090/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
+{ "name": "BeiChuan官解", "type": 0, "url": "https://um.bcyingshi.ink/player/?url=" },
 {"name": "舒度","type": 0,"url": "http://ck.lovctv.com/ck/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
 {"name": "playerjy/B站","type": 0,"url": "https://jx.playerjy.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","搜狐","sohu","letv","乐视","bilibili","哔哩哔哩","哔哩","xigua","西瓜","1905","ltnb","renrenmi","rx","rongxing"]}},
 {"name": "虾米1","type": 0,"url": "https://dm.xmflv.com:4433/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","搜狐","sohu","letv","乐视","bilibili","哔哩哔哩","哔哩","xigua","西瓜","1905","ltnb","renrenmi","rx","rongxing","imgo"]}},
