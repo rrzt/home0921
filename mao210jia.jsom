@@ -72,16 +72,16 @@
 {"key":"csp_Nkdy","name":"⏺耐看","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC.jar"},
 {"key":"csp_Bttoo","name":"✌两个BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC.jar"},
  {"key": "drpy_js_豆瓣", "name": "🔥豆瓣热播┃JS", "type": 3, "api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy.min.js", "ext": "https://gitee.com/rrzt188/home/raw/master/js/豆瓣.js"},
-{"key":"T4_douban1","name":"🔍影视推荐1(T4)","type":4,"api":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/影视推荐1.json","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"T4_douban2","name":"🔍影视推荐2(T4)","type":4,"api":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/影视推荐2.json","searchable":1,"quickSearch":1,"filterable":1},
+//备 {"key":"T4_douban1","name":"🔍影视推荐1(T4)","type":4,"api":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/影视推荐1.json","searchable":1,"quickSearch":1,"filterable":1},
+//备{"key":"T4_douban2","name":"🔍影视推荐2(T4)","type":4,"api":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/影视推荐2.json","searchable":1,"quickSearch":1,"filterable":1},
 //{key:'t4群',name:'T4-首页',type:4,api:'https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=bdys01,cokemv&timeout=10',searchable:1,quickSearch:1,filterable:1},
 //{key:'T4_douban',name:'影视推荐(T4)',type:4,api:'http://top.fuqizhishi.com/vod',searchable:1,quickSearch:1,filterable:1},
-{key:'t4public',name:'T4低端',type:4,api:'https://t4.secan.icu/vod?sites=voflix,ddys&timeout=10',searchable:1,quickSearch:1,filterable:0},
-{"key":"t4public","name":"📡合集(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",  "searchable": 1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/0907.jar"},
-{"key":"t4_公共","name":"📡公共(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"t4_搜片","name":"📡搜片(T4)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"t4_合集","name":"📡合集(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",  "searchable": 1,"quickSearch":1,"filterable":1},
-{"key":"t4_聚合","name":"📡聚合(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
+//备 {key:'t4public',name:'T4低端',type:4,api:'https://t4.secan.icu/vod?sites=voflix,ddys&timeout=10',searchable:1,quickSearch:1,filterable:0},
+//备 {"key":"t4public","name":"📡合集(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",  "searchable": 1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/0907.jar"},
+//备 {"key":"t4_公共","name":"📡公共(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
+//备 {"key":"t4_搜片","name":"📡搜片(T4)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
+//备 {"key":"t4_合集","name":"📡合集(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",  "searchable": 1,"quickSearch":1,"filterable":1},
+//备 {"key":"t4_聚合","name":"📡聚合(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
 //
 //{"key":"csp_GitCafe"       ,"name":"🐞小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/rrzt188/home/raw/master/ext/token.txt","jar":"https://raw.iqiq.io/liu673cn/box/main/sub/jar/2925.jar;md5;3BBE25C7A4BC9DD927D24258686517E1"},  
 
@@ -122,7 +122,7 @@
 //爬虫
 //js start
 
-{"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/drpy.js"},
+//备 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/drpy.js"},
 {"key":"爱奇异","name":"🥝爱奇艺(官)","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitea.com/rrzthz/home/raw/branch/master/js/aiqiyi.js"},
 //{"key":"爱奇异","name":"🥝爱奇艺(官)","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitea.com/rrzthz/home/raw/branch/master/js/aiqiyi.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC.jar"},
 //{"key":"优酷","name":"👑优酷(官)","type":3,"api":"https://gitea.com/52670576/tvbox/raw/branch/master/js/lib/drpy2.min.js","ext":"https://gitea.com/52670576/tvbox/raw/branch/master/js/youku.js"},
