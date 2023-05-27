@@ -88,7 +88,7 @@
       "ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/慢大浪影视.json",
       "jar": "https://gitee.com/rrzt188/home/raw/master/jar/homespiders.jar;md5;9709252CC3CA4B015A2F86C128A06DB3"
     },
-{"key":"csp_xBPQ_自由影视","name":"Free影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/freeok.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile.jar"},
+{"key":"csp_xBPQ_自由影视","name":"Free影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/freeok.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmileok.jar"},
  {"key":"csp_XBPQ_乐猪","name":"乐猪影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/乐猪.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan.txt"},
 {key:'csp_QQ',name:'🐧腾讯(SP)',type:3,api:'csp_QQ',searchable:1,quickSearch:1,filterable:1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/tengxun.jar"},
 //{"key":"csp_QQ","name":"🍅腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/ext/qq_qiyi_mgtv.jpg"},
