@@ -93,8 +93,8 @@
       "jar": "https://gitee.com/rrzt188/home/raw/master/jar/homespiders.jar;md5;9709252CC3CA4B015A2F86C128A06DB3"
     },
  {"key":"csp_XBPQ_乐猪","name":"乐猪影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/乐猪.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan.txt"},
-//{key:'csp_QQ',name:'🐧腾讯(SP)',type:3,api:'csp_QQ',searchable:1,quickSearch:1,filterable:1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/tengxun.jar"},
-{"key":"csp_QQ","name":"🍅腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/ext/qq_qiyi_mgtv.jpg"},
+{key:'csp_QQ',name:'🐧腾讯(SP)',type:3,api:'csp_QQ',searchable:1,quickSearch:1,filterable:1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/tengxun.jar"},
+//{"key":"csp_QQ","name":"🍅腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/ext/qq_qiyi_mgtv.jpg"},
 {"key":"csp_IQIYI","name":"🥝爱奇艺(官)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/ext/qq_qiyi_mgtv.jpg"},
 {"key":"csp_MGTV","name":"🍋芒果TV(官)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/ext/qq_qiyi_mgtv.jpg"},
 {key:'mtv_xp_优酷视频',name:'官方┃优酷视频',type:0,api:'https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/',searchable:0,quickSearch:0,filterable:0,categories:['综艺','动漫','动作片','喜剧片','爱情片','科幻片','恐怖片','剧情片','战争片','国产剧','港台剧','日韩剧','欧美剧','惊悚片','犯罪片','冒险片','悬疑片','动画片','武侠片','奇幻片']},
