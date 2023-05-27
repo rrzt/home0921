@@ -14,6 +14,7 @@
 {"key":"csp_Kuaikan" ,"name":"🐞快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple"     ,"name":"🐞小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "360_spider"     ,"name":"🐞360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+{"key":"csp_Czsapp","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"aHR0cHM6Ly9naXRlZS5jb20vcnJ6dDE4OC9ob21lL3Jhdy9tYXN0ZXIvamFyL2Zhbi50eHQ="},
 
 {"key":"SP360","name":"💘360影视(官)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC.jar"},
 //{key:"csp_fant",name:"🐞饭团",api:"csp_Fantuan",type:3,filterable:1,quickSearch:1,searchable:1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fantuan.jar"},
@@ -154,7 +155,7 @@
 {"key":"bdys","name":"💥哔嘀磁力(慎用)","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXP/bdys01.json","jar": "https://gitee.com/rrzt188/home/raw/master/ext/cili.jpg"},
 {"key":"csp_biubiu_哔嘀影视","name":"哔嘀影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/哔嘀影视.json"},
 //{"key":"csp_Xinsj","name":"🐼新视觉┃SP","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/ox.jar"},
-{"key":"csp_Czsapp","name":"📔大长┃SP","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/ox.jar"},
+//{"key":"csp_Czsapp","name":"📔大长┃SP","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/ox.jar"},
 //{"key":"csp_Dy1010","name":"❤️双十┃SP","type":3,"api":"csp_Dy1010","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/ox.jar"},
 //{"key":"csp_Nkdy","name":"🗽南柯┃SP","type":3,"api":"csp_Nkdy","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/ox.jar"},
 {"key":"csp_jihuang","name":"🚀剧荒┃SP","type":3,"api":"csp_Juhuang","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/ox.jar"},
