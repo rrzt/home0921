@@ -104,7 +104,7 @@
 {"key":"电影盒子","name":"🎞电影盒子","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/dianyinghezi.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC.jar"},
 {"key":"AppTT","name":"🐰图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitee.com/rrzt188/home/raw/master/jar/ts.jar"},
 {"key":"csp_EEEDY","name":"❄3E飘花","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_CZSPP"      ,"name":"🐞厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_CZSPP"      ,"name":"🐞厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},
 {"key": "csp_Buka"       ,"name":"🐞真不卡","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Zxzj"       ,"name":"🐞在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},  
 //{"key": "csp_DiDuan"     ,"name":"🐞低端影视","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":1},
