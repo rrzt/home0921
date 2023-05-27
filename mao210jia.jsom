@@ -154,6 +154,8 @@
 {"key":"独播库","name":"🍀独播库","type":"4","api":"https://tang.run.goorm.app/duboku","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC.jar"},
 {"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.11ty.top","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fix230320.jar"},
 {"key":"DNSP_spider","name":"酷酷影视","api":"csp_Dnsp","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://121.62.19.116:1996","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fix230320.jar"},
+{"key":"csp_Lib","name": "🌟利奥┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://tv.libvio.cc/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan.txt"},
+
 //key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.tv","jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile.jar"},
 //爬虫
 //js start
