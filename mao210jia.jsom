@@ -23,6 +23,7 @@
 {"key":"csp_fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com","jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC.jar"},
 {"key": "csp_77"         ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "csp_Bttoo"      ,"name":"🐞两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
+ {"key":"红红","name":"🌈彩虹影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bbq.1006.tk/icciu_api.php/v1.vod"},
  {
       "key":"csp_AppTT",
       "name":"🍝┃图图┃APP",
