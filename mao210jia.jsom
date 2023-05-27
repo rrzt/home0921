@@ -72,8 +72,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/liugd1005/home-tvbox/raw/master/TVBOX-XYQHiker/bcys.json",
-      "jar": "https://gitee.com/liugd1005/home-tvbox/raw/master/Home-Spiders/homespiders-xpath.jar;md5;9709252CC3CA4B015A2F86C128A06DB3"
+      "ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/北川影视1.json",
+      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/homespiders.jar;md5;9709252CC3CA4B015A2F86C128A06DB3"
     },
     {
       "key": "csp_XYQHiker_慢大浪影视",
@@ -83,8 +83,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/liugd1005/home-tvbox/raw/master/TVBOX-XYQHiker/mdlys.json",
-      "jar": "https://gitee.com/liugd1005/home-tvbox/raw/master/Home-Spiders/homespiders-xpath.jar;md5;9709252CC3CA4B015A2F86C128A06DB3"
+      "ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/慢大浪影视.json",
+      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/homespiders.jar;md5;9709252CC3CA4B015A2F86C128A06DB3"
     },
 {"key":"Lezhu_spider","name": "🐞乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://gitee.com/rrzt188/home/raw/master/jar/0831.jar;md5;1D8BE264384C9171C974CADB55E50541"},
 {"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC.jar"},
