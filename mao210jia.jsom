@@ -54,10 +54,7 @@
 {"key":"csp_AppMr","name":"👻明明影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC.jar"},
 //2023-6-22
 {"key": "csp_WoGG","name": "💧玩偶哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./tok.txt","jar":"https://gitee.com/lekanbox/App/raw/master/ali.jar"},
-{"key": "4KHDR","name":"💧4KHDR","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/4KHDR.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC230622.jar"},
-{"key": "阿里云盘网","name":"💧云盘网┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/aliyunpan.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC230622.jar"},
-{"key": "玩偶哥哥","name":"💧玩偶┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/wanou.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC230622.jar"},
-{"key": "布雷蓝光","name":"💧布雷┃4K","type":3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://weixine.net/sub/bulei.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC.jar"},
+
 {"key": "中国蓝光网","name":"💧蓝光网┃4K","type":3,"api":"csp_XYQHikerAL","searchable":"1","filterable": 1,"ext":"https://gitee.com/wlcmc/tvboxlivesdiy/raw/master/中国蓝光网.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC230622.jar"},
 {"key": "如意4K", "name": "💧如意┃4K", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "1", "ext": "http://cms.maoyingshi.cc/api.php/app/"},
 {"key": "落叶", "name": "💧落叶┃4K", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://xn--yeta099v.online:66/api.php/app/" },
