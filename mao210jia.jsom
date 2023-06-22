@@ -59,10 +59,10 @@
 {"key": "如意4K", "name": "💧如意┃4K", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "1", "ext": "http://cms.maoyingshi.cc/api.php/app/"},
 {"key": "落叶", "name": "💧落叶┃4K", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://xn--yeta099v.online:66/api.php/app/" },
 {"key": "csp_多线","name":"💧多线┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://117.175.212.198:8088/api.php/app/"},
-{"key":"csp_非凡","name":"🐲茶秀非凡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/非凡影视.json"},
+{"key":"csp_非凡","name":"🐲茶秀非凡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/非凡影视.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/611_090323_m.jar"},
 //{"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/cally20/tvbox/raw/master/man/ali/token.txt$$$http://tvfan.xxooo.cf/"},
-{"key":"csp_端木","name":"💧端木蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/端木蓝光.json"},
-{"key":"csp_西瓜","name":"💢西瓜影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/西瓜影视.json"},
+{"key":"csp_端木","name":"💧端木蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/端木蓝光.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/611_090323_m.jar"},
+{"key":"csp_西瓜","name":"💢西瓜影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/西瓜影视.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/611_090323_m.jar"},
 //2023-6-22
 
 {"key":"csp_Tkys","name":"🐞天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/0831.jar;md5;1D8BE264384C9171C974CADB55E50541"},
