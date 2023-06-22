@@ -53,8 +53,8 @@
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC.jar"},
 {"key":"csp_AppMr","name":"👻明明影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC.jar"},
 //2023-6-22
-{"key": "csp_WoGG","name": "💧玩偶哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./tok.txt","jar":"https://gitee.com/lekanbox/App/raw/master/ali.jar"},
-{"key": "csp_WoGG","name": "💧好看","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./zj.txt","jar":"https://gitee.com/lekanbox/App/raw/master/ali.jar"},
+{"key": "csp_WoGG","name": "玩偶哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./tok.txt","jar":"https://gitee.com/lekanbox/App/raw/master/ali.jar"},
+{"key": "csp_WoGG","name": "好看","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./zj.txt","jar":"https://gitee.com/lekanbox/App/raw/master/ali.jar"},
 
 {"key": "中国蓝光网","name":"💧蓝光网┃4K","type":3,"api":"csp_XYQHikerAL","searchable":"1","filterable": 1,"ext":"https://gitee.com/wlcmc/tvboxlivesdiy/raw/master/中国蓝光网.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC230622.jar"},
 {"key": "如意4K", "name": "💧如意┃4K", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "1", "ext": "http://cms.maoyingshi.cc/api.php/app/"},
