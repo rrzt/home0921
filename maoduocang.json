@@ -1,24 +1,140 @@
-  {
-    "urls":[
-        
-{"name":"🦉夜猫砂锅","url":"https://d.looks.wang/我爱夜猫子"},
-{"name":"🦉少儿频道","url":"https://d.looks.wang/夜猫子少儿频道"},
-{"name":"🏡潇洒砂锅","url":"https://la.kstore.space/download/2863/01.txt"},
-{"name":"👭人人砂锅","url":"https://agit.ai/376242575/zzh/raw/branch/master/txt/影视.txt"},
-{"url":"https://gitee.com/wlcmc/tv/raw/master/t1","name":"T1高清"},
-{"url":"https://gh.t4tv.hz.cz/newtang.bmp","name":"唐三"},
-{"url":"https://la.kstore.space/download/3376/001.txt","name":"001"},
-{"url":"https://la.kstore.space/download/3376/fns.txt","name":"fns"},
-{"url":"https://raw.iqiq.io/liu673cn/box/main/vod/xpg.txt","name":"苹果盒子"},
-{"url":"http://我不是.肥猫.love:63/接口禁止贩卖","name":"肥猫"},
-{"url":"https://yydsys.top/duo","name":"大聪明"},
-{"url":"https://pastebin.com/raw/5NHaxyGR","name":"道长"},
-{"url":"http://drpy.site/js1","name":"小雅js"},
-{"url":"https://download.kstore.space/download/2863/01.txt","name":"潇洒"},
-{"url":"https://www.agit.ai/n/b/raw/branch/a/b/c.json","name":"ImABC"},
-{"url":"https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8","name":"D大"}
-
-
-
-    ]
+{
+  "urls": [
+    {
+      "name": "🦉夜猫砂锅",
+      "url": "https://d.looks.wang/我爱夜猫子"
+    },
+    {
+      "name": "🦉少儿频道",
+      "url": "https://d.looks.wang/夜猫子少儿频道"
+    },
+    {
+      "name": "🏡潇洒砂锅",
+      "url": "https://la.kstore.space/download/2863/01.txt"
+    },
+    {
+      "name": "👭人人砂锅",
+      "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视.txt"
+    },
+    {
+      "url": "https://gitee.com/wlcmc/tv/raw/master/t1",
+      "name": "T1高清"
+    },
+    {
+      "url": "https://gh.t4tv.hz.cz/newtang.bmp",
+      "name": "唐三"
+    },
+    {
+      "url": "https://la.kstore.space/download/3376/001.txt",
+      "name": "001"
+    },
+    {
+      "url": "https://la.kstore.space/download/3376/fns.txt",
+      "name": "fns"
+    },
+    {
+      "url": "https://raw.iqiq.io/liu673cn/box/main/vod/xpg.txt",
+      "name": "苹果盒子"
+    },
+    {
+      "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+      "name": "肥猫"
+    },
+    {
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json",
+      "name": "香雅情"
+    },
+    {
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
+      "name": "gao"
+    },
+    {
+      "url": "https://tvbox.cainisi.cf",
+      "name": "菜妮丝线路"
+    },
+    {
+      "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
+      "name": "月光宝盒"
+    },
+    {
+      "url": "https://la.kstore.space/download/2863/01.txt",
+      "name": "潇洒线路"
+    },
+    {
+      "url": "https://la.kstore.space/download/2883/0110.txt",
+      "name": "蚂蚁论坛线路"
+    },
+    {
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "name": "南风线路"
+    },
+    {
+      "url": "http://52bsj.vip:98/wuai",
+      "name": "吾爱线路"
+    },
+    {
+      "url": "https://yydsys.top/duo",
+      "name": "大聪明"
+    },
+    {
+      "url": "https://pastebin.com/raw/5NHaxyGR",
+      "name": "道长"
+    },
+    {
+      "url": "http://drpy.site/js1",
+      "name": "小雅js"
+    },
+    {
+      "url": "https://download.kstore.space/download/2863/01.txt",
+      "name": "潇洒"
+    },
+    {
+      "url": "https://www.agit.ai/n/b/raw/branch/a/b/c.json",
+      "name": "ImABC"
+    },
+        {
+      "url": " https://weixine.net/ysc.json",
+      "name": "运输车"
+    },
+        {
+      "url": " http://52bsj.vip:98/0805",
+      "name": "吾爱有三"
+    },
+     {
+      "url": "https://download.kstore.space/download/2863/01.txt",
+      "name": "潇洒"
+    },
+    {
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
+      "name": "佰欣园"
+    },
+    {
+      "url": "https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json",
+      "name": "胖虎"
+    },
+        {
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json",
+      "name": "Ray"
+    },
+        {
+      "url": "https://kebedd69.github.io/TVbox-interface/py甜蜜.json",
+      "name": "甜蜜"
+    },
+        {
+      "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
+      "name": "月光宝盒"
+    },
+        {
+      "url": "https://xhdwc.tk/0",
+      "name": "好人"
+    },
+        {
+      "url": "https://xhdwc.tk/0",
+      "name": "好人"
+    },
+    {
+      "url": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8",
+      "name": "D大"
+    }
+  ]
 }
