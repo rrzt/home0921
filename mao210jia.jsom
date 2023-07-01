@@ -76,7 +76,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/rrzt/homebox/-/raw/main/js/caigou.js",
+            "ext": "https://bitbucket.org/xduo/json/raw/master/caigou.js",
             "jar":"https://gitee.com/rrzt188/home/raw/master/jar/custom_spider1.jar"
         },
         {
