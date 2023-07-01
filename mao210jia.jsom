@@ -42,6 +42,7 @@
   {"key": "csp_XYQHiker_北川影视", "name": "🍝┃北川┃影视", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/北川影视1.json","jar": "https://gitee.com/rrzt188/home/raw/master/jar/homespiders.jar;md5;9709252CC3CA4B015A2F86C128A06DB3" },
     {"key": "csp_XYQHiker_慢大浪影视", "name": "🍝┃大浪┃影视", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1,
 "ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/慢大浪影视.json", "jar": "https://gitee.com/rrzt188/home/raw/master/jar/homespiders.jar;md5;9709252CC3CA4B015A2F86C128A06DB3"},
+ {"key": "酷酷","name": "酷酷┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["电影","电视剧","综艺","动漫"],"ext": "https://www.tvkuys.xyz/api.php/app/"},
   {"key": "东方影视", "name": "🔷东方影视", "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dfspapp.com/api.php/app/"},
 {"key": "萌蛋蛋","name":"🔷萌蛋蛋","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
 {"key":"csp_xBPQ_自由影视","name":"Free影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/freeok.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmileok.jar"},
