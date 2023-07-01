@@ -65,7 +65,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitee.com/rrzt188/home/raw/master/js/youku.bmp"
+            "ext": "https://gitee.com/rrzt188/home/raw/master/js/youku.bmp",
+            "jar":"https://gitee.com/rrzt188/home/raw/master/jar/custom_spider1.jar"
         },
         {
             "key": "js_菜狗",
@@ -75,7 +76,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://bitbucket.org/xduo/json/raw/master/caigou.js"
+            "ext": "https://bitbucket.org/xduo/json/raw/master/caigou.js",
+            "jar":"https://gitee.com/rrzt188/home/raw/master/jar/custom_spider1.jar"
         },
         {
             "key": "zy_新浪",
@@ -85,6 +87,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "jar":"https://gitee.com/rrzt188/home/raw/master/jar/custom_spider1.jar",
             "categories": [
                 "动漫",
                 "综艺",
