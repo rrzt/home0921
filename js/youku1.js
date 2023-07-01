@@ -1,5 +1,5 @@
 var rule = {
-    title:'优酷',
+     title:'优酷',
     host:'https://www.%79%6f%75%6b%75.com',
     homeUrl:'',
     searchUrl:'https://search.%79%6f%75%6b%75.com/api/search?pg=fypage&keyword=**',
@@ -9,9 +9,7 @@ var rule = {
     multi:1,
     // 分类链接fypage参数支持1个()表达式
     url:'/category/data?optionRefresh=1&pageNo=fypage&params=fyfilter',
-    // url:'/category/data?pageNo=fypage&params=fyfilter',
-    // filter_url:'&u=fyarea&s=fyyear={{fl.order}}',
-    // filter_url:'{{fl|safe}}',
+
     filter_url:'{{fl}}',
     // filter_url:'{{fl}}',
     // filter_url:'{{fl}}',
