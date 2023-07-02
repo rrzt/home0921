@@ -169,6 +169,10 @@
 {"key": "XYQH_圣城","name": "🏚圣墟┃影视","type": 3,"api": "csp_XYQHiker","ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/圣城影视.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/xlxb.zip"},
 {"key": "XYQH_A8电影","name": "🌋Rs8┃影视","type": 3,"api": "csp_XYQHiker","ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/A8影视.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/xlxb.zip"},
 {"key": "XYQH_极客","name": "🚐极客┃影视","type": 3,"api": "csp_XYQHiker","ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/4K极客影院.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/xlxb.zip"},
+{"key": "apv2_聚合","name": "🏕聚合┃影视","type": 3,"api": "csp_AppYsV2","ext": "http://117.175.212.198:8088/api.php/app/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/xlxb.zip"},
+{"key": "apv2_速看100","name": "🚤速看┃影视","type": 3,"api": "csp_AppYsV2","ext": "https://sk100.tv/api.php/app/"},
+{"key": "XBPQ_蚂蚁","name": "🏔雪山┃影视","type": 3,"api": "csp_XBPQ","ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/mayi.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/xlxb.zip"},
+{"key": "apv2_看剧吧","name": "🎱看吧┃影视","type": 3,"api": "csp_AppYsV2","ext": "http://app.ishen520.com/api.php/v1.vod","jar":"https://gitee.com/rrzt188/home/raw/master/jar/xlxb.zip"},
 //2023-6-22
 
 {"key":"csp_Tkys","name":"🐞天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/0831.jar;md5;1D8BE264384C9171C974CADB55E50541"},
