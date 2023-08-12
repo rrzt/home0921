@@ -187,6 +187,8 @@
 {"key": "XBPQ_蚂蚁","name": "🏔蚂蚁┃影视","type": 3,"api": "csp_XBPQ","ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/mayi.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/xlxb.zip"},
 {"key":"爱迪","name":"🍟爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile.jar"},
 {"key":"鸭鸭","name":"🦆鸭鸭","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile.jar"},
+{"key":"迷你库","name":"Ⓜ️迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile.jar"},
+
 //2023-6-22
 
 {"key":"csp_Tkys","name":"🐞天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/0831.jar;md5;1D8BE264384C9171C974CADB55E50541"},
@@ -476,7 +478,6 @@
 //2022年12月17日
 {"key": "drpy_js_豆芽影院","name": " 🎑豆芽影院[DRPY]","type": 3,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext": "https://gitee.com/rrzt188/home/raw/master/js/豆芽影院.js"},
 {"key": "drpy_js_独播库","name": " 🎑独播库[DRPY]","type": 3,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy3.min.js","ext": "https://gitee.com/rrzt188/home/raw/master/js/独播库.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/1008.jar"},
-{"key": "drpy_js_新视觉影视","name": " 🎑新视觉影视[DRPY]","type": 3,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy3.min.js","ext": "https://gitee.com/rrzt188/home/raw/master/js/新视觉影视.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/1008.jar"},
 {"key": "drpy_js_HoHo影视","name": " 🎑HoHo影视[DRPY]","type": 3,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy3.min.js","ext": "https://gitee.com/rrzt188/home/raw/master/js/HoHo影视.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/1008.jar"},
 {"key": "drpy_js_优酷","name": " 🎑优酷[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/tian/main/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/tian/main/Js/%E4%BC%98%E9%85%B7.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/1008.jar"},
 {"key": "drpy_js_落攻阁影视","name": " 🎑落攻阁影视[DRPY]","type": 3,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext": "https://gitee.com/rrzt188/home/raw/master/js/落攻阁影视.js"},
