@@ -56,6 +56,7 @@
  {"key": "瑞丰","name": "辣辣┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 {"key": "csp_aidi","name": "爱迪┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api123.adys.app/xgapp.php/v3/"},
 { "key": "蘑菇影视", "name": "🎈蘑菇┃App", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.gvideo.me/api.php/app/"},
+{"key":"明帝影视","name":"💧明帝┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.md214.cn/api.php/app/"},
 {"key":"蓝光官采","name":"猫咪┃解析","type":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"playUrl":"https://jx.jsonplayer.com/player/?url=","filterable":0,"categories":[	"国产剧",	"综艺",	"动漫",	"香港剧",	"动作片",	"科幻片",	"战争片",	"奇幻片",	"喜剧片",	"爱情片",	"恐怖片",	"犯罪片",	"悬疑片",	"惊悚片",	"剧情片",	"冒险片",	"记录片"]},
 {"key":"优世界", "name": "💧优世界┃4K", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "2", "ext": "https://dpg.laoxie.icu/api.php/app/"},
   {"key": "东方影视", "name": "🔷东方影视", "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dfspapp.com/api.php/app/"},
@@ -861,6 +862,8 @@
 {"key":"csp_app_gotka","name":"🐌速播影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
 {"key":"csp_appysv2_阿里影视","name":"🐝阿里影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://aliys.cn:90/api.php/v1.vod"},
 //
+{"key":"api┃百度","name":"🎀百度┃采集","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"filterable":0,"changeable":1,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]}, 
+{"key":"暴风资源","name":"👀暴风┃采集","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]}, 
 {"key":"阿里影视","name":"阿里影视(聚)","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xml_飞速采集","name":"🐝飞速采集","type":1,"api":"https://m3u8.feisuzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"filterable": 1,"quickSearch":1},
 {"key":"csp_xml_飞速资源","name":"🐝飞速资源","type":1,"api":"http://fszy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"filterable": 1,"quickSearch":1},
