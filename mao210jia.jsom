@@ -185,6 +185,8 @@
 {"key": "apv2_聚合","name": "🏕聚合┃影视","type": 3,"api": "csp_AppYsV2","ext": "http://117.175.212.198:8088/api.php/app/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/xlxb.zip"},
 {"key": "apv2_看剧吧","name": "🎱看吧┃影视","type": 3,"api": "csp_AppYsV2","ext": "http://app.ishen520.com/api.php/v1.vod","jar":"https://gitee.com/rrzt188/home/raw/master/jar/xlxb.zip"},
 {"key": "XBPQ_蚂蚁","name": "🏔蚂蚁┃影视","type": 3,"api": "csp_XBPQ","ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/mayi.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/xlxb.zip"},
+{"key":"爱迪","name":"🍟爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile.jar"},
+{"key":"鸭鸭","name":"🦆鸭鸭","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile.jar"},
 //2023-6-22
 
 {"key":"csp_Tkys","name":"🐞天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/0831.jar;md5;1D8BE264384C9171C974CADB55E50541"},
