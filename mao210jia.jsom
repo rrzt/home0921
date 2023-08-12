@@ -232,7 +232,7 @@
 //{"key":"腾讯","name":"🐧腾讯(官)","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitea.com/rrzthz/home/raw/branch/master/js/tengxun.js"},
 //{"key":"芒果","name":"🥭芒果(官)","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitea.com/rrzthz/home/raw/branch/master/js/mangguo.js"},
 {"key":"搜狗","name":"🐼搜狗(官)","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitea.com/rrzthz/home/raw/branch/master/js/caigou.js"},
-{"key":"drpy_js_ikanbot3","name":"爱看机器人[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/jar/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/js/ikanbot3.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan.txt"},
+{"key":"drpy_js_ikanbot3","name":"爱看机器人[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/js/ikanbot3.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan.txt"},
 {"key":"drpy_js_达达龟","name":"影视 | 达达龟[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/达达龟.js"},
 {"key":"drpy_js_农民","name":"影视 | 农民[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/农民.js"},
 {"key":"drpy_js_l0l","name":"影视 | l0l[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/l0l.js"},
