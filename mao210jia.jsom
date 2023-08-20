@@ -82,16 +82,10 @@
 {"key":"csp_MGTV","name":"🍋芒果TV(官)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/ext/qq_qiyi_mgtv.jpg"},
 //{key:'mtv_xp_优酷视频',name:'官方┃优酷视频',type:0,api:'https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/',searchable:0,quickSearch:0,filterable:0,categories:['综艺','动漫','动作片','喜剧片','爱情片','科幻片','恐怖片','剧情片','战争片','国产剧','港台剧','日韩剧','欧美剧','惊悚片','犯罪片//','冒险片','悬疑片','动画片','武侠片','奇幻片']},
 //{key:'mtv_xp_皮皮视频',name:'官方┃PPTV视频',type:0,api:'https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/',searchable:0,quickSearch:0,filterable:0,categories:['综艺','动漫','动作片','喜剧片','爱情片','科幻片','恐怖片','剧情片','战争片','国产剧','港台剧','日韩剧','欧美剧','惊悚片','犯罪片',//'冒险片','悬疑片','动画片','武侠片']},
-        {
-            "key": "js_优酷",
-            "name": "👑┃优酷┃大厂",
-            "type": 3,
-            "api": "https://jihulab.com/rrzt/homebox/-/raw/main/js/drpymin.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jihulab.com/rrzt/homebox/-/raw/main/js/youku.js",
-            "jar":"https://gitee.com/rrzt188/home/raw/master/jar/custom_spider1.jar"
+{"key":"虎牙","name":"🐯虎牙采集","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable":1,"quickSearch":1 ,"categories": ["内地剧","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","伦理片","韩剧","香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","日本动漫","欧美动漫"]},
+  { "key": "js_优酷","name": "👑┃优酷┃大厂",  "type": 3,"api": "https://jihulab.com/rrzt/homebox/-/raw/main/js/drpymin.js", "searchable": 1, "quickSearch": 1,"filterable": 1, 
+  "ext": "https://jihulab.com/rrzt/homebox/-/raw/main/js/youku.js",
+  "jar":"https://gitee.com/rrzt188/home/raw/master/jar/custom_spider1.jar"
         },
         {
             "key": "js_菜狗",
