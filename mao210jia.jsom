@@ -26,7 +26,7 @@
 {"key":"csp_77","name":"七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
  {"key":"csp_Lib","name": "利播┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext":"https://www.libvio.fun/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
 {"key":"贱贱","name":"贱贱┃p2p","type":3,"playerType":"1","api":"http://xhww.fun:63/js/drpy1.min.js","ext":"http://smallmi.xiaohewanwan.love:63/jp.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
-//{"key":"酷酷","name":"酷酷┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://ys.realdou.cn:62703/api.php/app/","categories":["4K电影","4K电视剧"],"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
+//{"key":"酷云","name":"酷云┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://ys.realdou.cn:62703/api.php/app/","categories":["4K电影","4K电视剧"],"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
 {"key":"探探","name":"探探┃App","type":3,"playerType":"1","api":"csp_YT","searchable":1,"quickSearch":1,"changeable":0,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
 {"key":"csp_YQKAPP","name":"一起┃App","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api-aws.11ty.top","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
 //{"key":"csp_kuaikan","name":"快看┃App","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
