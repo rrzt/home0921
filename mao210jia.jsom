@@ -234,6 +234,8 @@
 {"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.11ty.top","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fix230320.jar"},
 {"key":"DNSP_spider","name":"酷酷影视","api":"csp_Dnsp","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://121.62.19.116:1996","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fix230320.jar"},
 {"key":"csp_Lib","name": "🌟利奥┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://tv.libvio.cc/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan.txt"},
+{"key": "影图影视","name": "🥪影图影视","type": 1,"api": "https://cj.vodimg.top/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
+
 //key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.tv","jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile.jar"},
 //爬虫
 //js start
@@ -1247,7 +1249,6 @@
  
 {"key":"每天看看","name":"每天看看(优)","type":1,"api":"http://47.113.126.237:1234/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1},
 //三方聚
-//{"key":"影图","name":"影图(聚)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"爱兜视频","name":"爱兜视频(聚)","type":1,"api":"http://id190.tpddns.cn:81/mogai_api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"天诚影视1","name":"天诚影视(聚)1","type":1,"api":"http://tcspvip.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"瞬间影视","name":"瞬间影视(聚)","type":1,"api":"http://app.7en7.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -1297,7 +1298,6 @@
 //{"key":"胖猫影视","name":"胖猫影视(聚)","type":1,"api":"https://www.pangmaotv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //{"key":"海外电影","name":"海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //三方聚
-{"key":"影图","name":"影图(聚)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"猪猪影院","name":"猪猪影院(聚)","type":1,"api":"https://www.2zdyy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"美剧星球","name":"美剧星球(聚)","type":1,"api":"https://www.meijuxq.tv/inc/apijson_vod.php","searchable":0,"quickSearch":0,"filterable":1},
 //{"key":"初恋云影视","name":"初恋云影视(聚)","type":1,"api":"https://video.xuanqi.pro/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1},
