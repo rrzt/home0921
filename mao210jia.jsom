@@ -5,7 +5,7 @@
 "spider":"https://gitee.com/rrzt188/home/raw/master/jar/230329.jar",
  
 "wallpaper": "https://gitee.com/rrzt188/home/raw/master/pic/wallpaper.jpg",
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=https://fastly.jsdelivr.net/gh/rrzt/home/zhibo/list.txt"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=https://rrzt/home/zhibo/list.txt"]}]}],
 
 
   //"spider":"https://raw-gh.gcdn.mirr.one/liu673cn/box/main/jar/spider2207.jar;md5;727C472F6F06E2958FF50FBD0C2AAE21",
