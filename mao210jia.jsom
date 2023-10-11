@@ -576,89 +576,18 @@
 {"key":"csp_biubiu_139影视","name":"🐛139影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/mao/sub/biubiu/139影视.json"}, 
 //json end
  
- {"key":"csp_xpath_94sm","name":"🦋94神马","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/mao/sub/xpath/94sm.json"},
+{"key":"csp_xpath_94sm","name":"🦋94神马","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/mao/sub/xpath/94sm.json"},
  
- {
-"key":"csp_xpath_ysjc",
-"name":"工厂影视(XPath)",
-"type":3,
-"api":"csp_XPath",
-"searchable":1,
-"quickSearch":1,
-"filterable": 1,
-"ext":"https://gitee.com/rrzt188/box/raw/master/sub/jar/xpath/gc.json"
-},
-{
-    "key": "csp_xpath_age",
-    "name": "AGE动漫(XPath)",
-    "type": 3,
-    "api": "csp_XPath",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://gitee.com/rrzt188/box/raw/master/sub/jar/xpath/agefans.json"
-},
-{
-    "key": "csp_xpath_jpyszl",
-    "name": "极品直链(XPath)",
-    "type": 3,
-    "api": "csp_XPathMac",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://gitee.com/rrzt188/box/raw/master/sub/jar/xpath/jpys.json"
-},
-{
-    "key": "csp_xpath_tvci",
-    "name": "大师兄(XPath)",
-    "type": 3,
-    "api": "csp_XPath",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://gitee.com/rrzt188/box/raw/master/sub/jar/xpath/tvci.json"
-},
+ {"key":"csp_xpath_ysjc","name":"工厂影视(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://gitee.com/rrzt188/box/raw/master/sub/jar/xpath/gc.json"},
+{"key": "csp_xpath_age","name": "AGE动漫(XPath)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/rrzt188/box/raw/master/sub/jar/xpath/agefans.json"},
+{"key": "csp_xpath_jpyszl","name": "极品直链(XPath)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/rrzt188/box/raw/master/sub/jar/xpath/jpys.json"},
+{"key": "csp_xpath_tvci","name": "大师兄(XPath)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/rrzt188/box/raw/master/sub/jar/xpath/tvci.json"},
 {"key":"csp_xpath_duboku","name":"🦋独播库","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/mao/sub/xpath/duboku2.json"},
-{
-     "key": "csp_xpath_dm84",
-     "name": "动漫巴士(XPath)",
-     "type": 3,
-     "api": "csp_XPath",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 1,
-     "ext": "https://gitee.com/rrzt188/box/raw/master/sub/jar/xpath/dm84.json"
-},
-{
-     "key":"csp_xpath_pianba",
-     "name":"Pianba(XPath)",
-     "type":3,
-     "api":"csp_XPath",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable": 1,
-     "ext":"https://gitee.com/rrzt188/box/raw/master/sub/jar/xpath/pianba.json"
-},
-{
-     "key":"csp_xpath_miniku",
-     "name":"Miniku(XPath)",
-     "type":3,
-     "api":"csp_XPath",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable": 1,
-     "ext":"https://gitee.com/rrzt188/box/raw/master/sub/jar/xpath/miniku.json"
-},
-{
-     "key":"csp_xpath_555",
-     "name":"555影视(XPath)",
-     "type":3,
-     "api":"csp_XPath",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable": 1,
-     "ext":" https://gitee.com/rrzt188/box/raw/master/sub/jar/xpath/555.json"
-},
+{ "key": "csp_xpath_dm84", "name": "动漫巴士(XPath)", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/rrzt188/box/raw/master/sub/jar/xpath/dm84.json"},
+{ "key":"csp_xpath_pianba", "name":"Pianba(XPath)", "type":3, "api":"csp_XPath", "searchable":1, "quickSearch":1, "filterable": 1, "ext":"https://gitee.com/rrzt188/box/raw/master/sub/jar/xpath/pianba.json"},
+{ "key":"csp_xpath_miniku", "name":"Miniku(XPath)", "type":3, "api":"csp_XPath", "searchable":1, "quickSearch":1, "filterable": 1, "ext":"https://gitee.com/rrzt188/box/raw/master/sub/jar/xpath/miniku.json"},
+{ "key":"csp_xpath_555", "name":"555影视(XPath)", "type":3, "api":"csp_XPath", "searchable":1, "quickSearch":1, "filterable": 1, "ext":" https://gitee.com/rrzt188/box/raw/master/sub/jar/xpath/555.json"},
+
 //{"key":"csp_xpath_01-乐猪","name":"乐猪XPATH","type":3,"api":"csp_XPathMac","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/rrzt188/box/raw/master/sub/jar/xpath/lezhu.json"},
 {"key":"csp_xpath_久久影视","name":"久久影视XPATH","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/box/raw/master/sub/jar/xpath/jiujiukanpian.json"},
 {"key":"csp_XPathMacFilter_VIVOD","name":"VIVOD-XPATH","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/box/raw/master/sub/jar/xpath/vivod.json"},
