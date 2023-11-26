@@ -4,7 +4,8 @@
 "spider":"https://gitee.com/rrzt188/home/raw/master/jar/230329.jar",
  
 "wallpaper": "https://gitee.com/rrzt188/home/raw/master/pic/wallpaper.jpg",
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=https://github.moeyy.xyz/https://github.com/rrzt/home/blob/master/zhibo/list.txt"]}]}],
+//"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=https://github.moeyy.xyz/https://github.com/rrzt/home/blob/master/zhibo/list.txt"]}]}],
+"lives":[{"name":"live","type":0,"url":"https://github.moeyy.xyz/https://github.com/rrzt/home/blob/master/zhibo/listyx.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
 
   "sites": [ 
