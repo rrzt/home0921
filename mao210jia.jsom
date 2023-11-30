@@ -1867,7 +1867,7 @@
 {"name":"PM","url":"https://www.playm3u8.cn/jiexi.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 
 {"name":"2449","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
- { "name": "比u比u",  "type": 1,   "url": "https://jxjson.cf/json.php?url="  },
+ { "name": "比u比u",  "type": 0,   "url": "https://json.hfyrw.com/mao.go?url="  },
 {"name":"LR","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
 {"name":"小新","type":1,"url":"http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="},
 {"name": "77","type": 1,"url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url="},
