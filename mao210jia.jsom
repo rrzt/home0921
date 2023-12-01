@@ -369,23 +369,23 @@
       "key": "csp_xBPQ_疯狗",
       "name": "🐕┃疯狗┃",
       "type": 3,
-      "jar": "http:tvbox.vip/jar/H.jar",
+      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/H.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/疯狗影视.json"
+      "ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/疯狗影视.json"
     },
 {
       "key": "csp_盒子",
       "name": "🍁┃电盒┃",
       "type": 3,
-      "jar": "http:tvbox.vip/jar/H.jar",
+      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/H.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/电影盒子.json"
+      "ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/电影盒子.json"
     },
 {
       "key": "csp_七新",
@@ -414,12 +414,12 @@
       "key": "csp_日后",
       "name": "🌜┃348┃",
       "type": 3,
-      "jar": "http:tvbox.vip/jar/H.jar",
+      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/H.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http:tvbox.vip/json/348影视.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar"
+      "ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/348影视.json"
     },
 {
       "key": "豪华资源",
@@ -461,7 +461,7 @@
       "name": "🐌┃蜗牛┃",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "http:tvbox.vip/json/蜗牛.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar"
+      "ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/蜗牛.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar"
     },
    
     {
@@ -478,23 +478,23 @@
       "key": "csp_101",
       "name": "🛎┃LOL┃",
       "type": 3,
-      "jar": "http:tvbox.vip/jar/H.jar",
+      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/H.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http:tvbox.vip/json/LOL.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar"
+      "ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/LOL.json"
     },
     {
       "key": "csp_圣城",
       "name": "🏰┃圣城┃",
       "type": 3,
-      "jar": "http:tvbox.vip/jar/H.jar",
+      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/H.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http:tvbox.vip/json/圣城影视.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar"
+      "ext": "http:tvbox.vip/json/圣城影视.json"
     },
     {
       "key": "csp_威士",
@@ -514,7 +514,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http:tvbox.vip/json/奇优影视.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar"
+      "ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/奇优影视.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar"
     },
     {
       "key": "csp_兔年",
@@ -524,14 +524,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http:tvbox.vip/json/YYDS影视.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar"
+      "ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/YYDS影视.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar"
     },
     {
       "key": "素白",
       "name": "🦢┃小白┃",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "http:tvbox.vip/json/素白白.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar"
+      "ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/素白白.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar"
     },
    
     {
@@ -542,14 +542,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http:tvbox.vip/json/米爱.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar"
+      "ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/米爱.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar"
     },
        {
       "key": "龟龟",
       "name": "🐢┃龟龟┃",
       "type": 3,
       "changeable": 1,
-      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar",
       "api": "csp_XBPQ",
       "playerType": "2",
       "ext": {
@@ -570,7 +570,7 @@
       "key": "双黄",
       "name": "🥚┃双黄┃",
       "type": 3,
-      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+     "jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar",
       "api": "csp_XBPQ",
       "ext": {
         "嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
@@ -588,7 +588,7 @@
       "name": "🔥┃热播┃",
       "type": 3,
       "changeable": 1,
-      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar",
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": {
@@ -661,7 +661,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http:tvbox.vip/json/歪片星球.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar"
+      "ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/歪片星球.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar"
     },
    
    
