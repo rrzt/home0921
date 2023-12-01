@@ -107,16 +107,7 @@
 {"key": "csp_XYQHiker_北川影视", "name": "🍝┃北川┃影视", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/北川影视1.json","jar": "https://gitee.com/rrzt188/home/raw/master/jar/homespiders.jar;md5;9709252CC3CA4B015A2F86C128A06DB3" },
 {"key": "csp_XYQHiker_慢大浪影视", "name": "🍝┃大浪┃影视", "type": 3, "api": "csp_XYQHiker", "searchable":1, "quickSearch":1, "filterable":1,
 "ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/慢大浪影视.json", "jar": "https://gitee.com/rrzt188/home/raw/master/jar/homespiders.jar;md5;9709252CC3CA4B015A2F86C128A06DB3"},
-    {
-      "key": "一起看 ",
-      "name": "👑┃一起┃",
-      "type": 3,
-      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/fan2.txt",
-      "api": "csp_YQKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+    
      {
       "key": "小胡",
       "name": "🔥┃点赞┃",
@@ -191,7 +182,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar",
       "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
     },
 {
@@ -641,68 +632,8 @@
       "quickSearch": 1,
       "filterable": 1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar"
     },
-    {
-      "key": "zy_新浪",
-      "name": "🏄🏻┃新浪┃",
-      "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "动漫",
-        "综艺",
-        "纪录片",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "战争片",
-        "剧情片",
-        "恐怖片",
-        "喜剧片",
-        "大陆剧",
-        "港澳剧",
-        "台湾剧",
-        "欧美剧",
-        "动漫电影",
-        "韩剧",
-        "日剧",
-        "泰剧",
-        "体育"
-      ]
-    },
-    {
-      "key": "api_xml_搜糊",
-      "name": "️🦊┃搜糊┃",
-      "type": 1,
-      "api": "http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/",
-      "playUrl": "https://jx.777jiexi.com/player/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar",
-      "categories": [
-        "国产剧",
-        "韩国剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "奇幻片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "悬疑片",
-        "惊悚片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "综艺",
-        "动漫"
-      ]
-    },
+
+   
     {
       "key": "7️⃣csp_七月影视",
       "name": "7️⃣┃柒月┃",
