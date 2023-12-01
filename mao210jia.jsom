@@ -192,7 +192,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar",
       "playerType": "2",
       "api": "csp_XBPQ",
       "ext": {
@@ -232,7 +232,7 @@
       "key": "爱看",
       "name": "❤️┃爱看┃",
       "type": 3,
-      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar",
       "api": "csp_XBPQ",
       "ext": {
         "主页url": "https://www.3ayy.com",
@@ -268,7 +268,7 @@
       "name": "🐦┃乌鸦┃",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -305,7 +305,7 @@
       "name": "🍑┃淘剧┃",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar",
       "ext": {
         "主页url": "http://dyxz.tv",
         "数组": "<div class=\"stui-vodlist__box\">&&</div>",
