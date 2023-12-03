@@ -169,40 +169,6 @@
     \"分类\":\"电影$1#电视剧$2#国产剧$42#港台剧$49#综艺$3#动漫$4\",
     \"分类url\":\"https://www.6080yy3.com/vodshow/{cateId}--------{catePg}---.html\"}"},
 
-    {
-    "key":"csp_XBPQ_大师兄影院",
-    "name":"🍹大师兄影院",
-    "type":3,
-    "api":"csp_XBPQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-     "jar":"https://gitee.com/rrzt188/home/raw/master/jar/0606.jar",
-    "ext":"{
-     \"主演\":\"主演:&&</div>\",
-    \"播放数组\":\"class=\\\"module-play-list&&</div>\",
-    \"简介\":\"module-blocklist scroll-boxscroll-box-ymodule-player-list\\\"&&</span>\",
-    \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
-    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
-    \"线路标题\":\"<span>&&</small>\",
-    \"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$14#综艺$3#动漫$4\",
-    \"分类url\":\"https://dsxys.pro/vodshow/{cateId}--------{catePg}---.html\"}"},
-    //
-
-    {
-            "key": "往往",
-            "name": " 🍧往往影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-             "jar":"https://gitee.com/rrzt188/home/raw/master/jar/0606.jar",
-            "ext": {
-                "分类url": "https://oftens.top/oftensshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-                "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi"
-            }
-        },
 {"key":"csp_AppMr","name":"明明┃App","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
 //{"key":"csp_Xinsj","name":"视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.6080yy3.com/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
 {"key":"csp_fantuan","name":"饭团┃直连","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.fantuan3.com","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
