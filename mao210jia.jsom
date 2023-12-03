@@ -22,6 +22,7 @@
     "name":"redirect",
     "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIubW9leXkueHl6L2h0dHBzOi8vZ2l0aHViLmNvbS9ycnp0L2hvbWUvYmxvYi9tYXN0ZXIvemhpYm8vbGlzdHl4LnR4dA=="]}]
     }],
+    
   "sites": [ 
 //爬虫
  {"key": "drpy_js_豆瓣", "name": "🔥豆瓣热播┃JS", "type": 3, "api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy.min.js", "ext": "https://gitee.com/rrzt188/home/raw/master/js/豆瓣.js"},
