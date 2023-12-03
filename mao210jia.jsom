@@ -92,7 +92,7 @@
       ]
     },
 { "key": "csp_农民",      "name": "🍎农民影视",      "type": 3, "searchable":1,"quickSearch":1,"filterable":1,"changeable":1     ,
-"api": "https://gitee.com/rrzt188/home/raw/master/jar/drpy12.min.js",      "ext":"https://agit.ai/guot54/YGBH2024/raw/branch/main/js/nm.js"    },
+"api": "https://gitee.com/rrzt188/home/raw/master/jar/drpy22.min.js",      "ext":"https://agit.ai/guot54/YGBH2024/raw/branch/main/js/nm.js"    },
 {"key":"暴風","name":"暴風┃采集","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2.txt"},
 {    "key":"csp_XBPQ_六度",
     "name":"🍹六度影视",
