@@ -1089,10 +1089,9 @@
 //2022年12月17日
 //{"key": "drpy_js_优酷","name": " 🎑优酷[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/tian/main/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/tian/main/Js/%E4%BC%98%E9%85%B7.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/1008.jar"},
 { "key": "csp_XYQHiker_FREEOK", "name": "🎠┃Free┃影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "https://gitee.com/rrzt188/home/raw/master/js/FREEOK.json", "jar": "https://gitee.com/rrzt188/home/raw/master/jar/homespiders-xpath.jar"},
-{ "key": "csp_XYQHiker_慢大浪影视", "name": "⛲┃大浪┃影视","type": 3,"api": "csp_XYQHiker", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/rrzt188/home/raw/master/js/mdlys.json", "jar": "https://gitee.com/rrzt188/home/raw/master/jar/homespiders-xpath.jar"},
+//{ "key": "csp_XYQHiker_慢大浪影视", "name": "⛲┃大浪┃影视","type": 3,"api": "csp_XYQHiker", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/rrzt188/home/raw/master/js/mdlys.json", "jar": "https://gitee.com/rrzt188/home/raw/master/jar/homespiders-xpath.jar"},
 //js end
 //json//
-{"key":"csp_XBPQ_ 咕噜咕噜","name":"💢咕噜咕噜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/gulugulu.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/YSC.jar"},
 {"key":"csp_biubiu_um","name":"🍀UM影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/umkan.json"},
 {"key":"csp_xbb_tegou","name":"🍀特狗影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/tegou.json"},
 {"key":"csp_xbb_搜狗影院","name":"🍀搜狗影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/搜狗影院.json"},
