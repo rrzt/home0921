@@ -100,9 +100,7 @@
 {"key":"csp_Dy1010","name":"❤️双十┃直连","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan.txt"},
  { "key": "csp_AppYsV2_如意",  "name": "🍝┃如意┃APP","type": 3,  "api": "csp_AppYsV2", "searchable":1, "quickSearch":1, "filterable":1,    "playerType": 1, "playurl":"json:https://jx.4kdv.com/?url=", "ext":"http://cms.maoyingshi.cc/api.php/app/"   },
 {"key": "csp_XYQHiker_北川影视", "name": "🍝┃北川┃影视", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/北川影视1.json","jar": "https://gitee.com/rrzt188/home/raw/master/jar/homespiders.jar;md5;9709252CC3CA4B015A2F86C128A06DB3" },
-//{"key": "csp_XYQHiker_慢大浪影视", "name": "🍝┃大浪┃影视", "type": 3, "api": "csp_XYQHiker", "searchable":1, "quickSearch":1, "filterable":1,
-"ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/慢大浪影视.json", "jar": "https://gitee.com/rrzt188/home/raw/master/jar/homespiders.jar;md5;9709252CC3CA4B015A2F86C128A06DB3"},
-    
+
      {
       "key": "小胡",
       "name": "🔥┃点赞┃",
