@@ -1135,9 +1135,8 @@
 {"name":"PM","url":"https://www.playm3u8.cn/jiexi.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 
 {"name":"2449","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
- { "name": "纯1",  "type": 1,   "url": "https://im1907.top/?jx="  },
-  { "name": "听乐",  "type": 1,   "url": "https://jx.dj6u.com/?url="  },
-  { "name": "YT",  "type": 1,   "url": "https://jx.yangtu.top/?url="  },
+ { "name": "谷歌",  "type": 1,   "url": "https://jx.googe.cc/api/bfq/?key=pDUrtM5UHLtQJGDTYl&url="  },
+  { "name": "窗口",  "type": 1,   "url": "https://www.ckplayer.vip/jiexi/?url="  },
 {"name":"LR","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
 {"name": "77","type": 1,"url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url="},
 {"name":"高清解析3","type":1,"url":"http://113.125.122.109:5555/aiku.php?url=",
