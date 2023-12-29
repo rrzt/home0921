@@ -1,0 +1,7 @@
+{
+    "version": 8,
+    "entry_package": "videosource",
+    "download_url": "https://gitee.com/rrzt188/home/raw/master/tingshu/jar/videosource.jar",
+    "update_msg": "\n清理失效的源，添加iKun资源网，新加的源请去源手动管理开启。",
+    "support_url": ""
+}
