@@ -33,7 +33,7 @@
 {"key": "dr_nangua","name": "🎃┃南瓜┃影视","type": 3,"api": "https://github.moeyy.xyz/https://github.com/rrzt/copybox/blob/main/libs/drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.moeyy.xyz/https://github.com/rrzt/copybox/blob/main/libs/nangua.js"},
 
 {"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan.txt"},
-{ "key": "新片热播", "name": "🔷新片热播","type": 1, "api": "https://api.iku.cool/api.php/provide/vod/?ac=list", "searchable":1, "quickSearch":1, "filterable":0, "categories": ["电影","连续剧","综艺","动漫"]   },
+{"key": "dr_荐片","name": "⏳荐片┃Js","type": 3,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/rrzt188/home/raw/master/js/荐片.js"},
 {"key":"豪华资源","name":"🛫豪华原生","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "影探VIP","name": "影视世界┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vipcms.lyyytv.cn/api.php/app/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar"    },
 {"key":"49","name":"49┃采集","type":1,"api":"https://49zyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"recordable":1,"filterable":1},
