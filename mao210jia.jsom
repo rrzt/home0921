@@ -40,7 +40,6 @@
 {"key": "csp_XBPQ_haoxi","name": "🌍好戏开场","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": "https://gitee.com/rrzt188/home/raw/master/js/%E5%A5%BD%E6%88%8F.json","jar": "https://gitee.com/rrzt188/home/raw/master/jar/hx.jar" },
 {"key":"畅梦","name":"🍋畅梦秒播","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/changmeng.js"},
-{"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan.txt"},
 {"key": "dr_荐片","name": "⏳荐片┃Js","type": 3,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/rrzt188/home/raw/master/js/荐片.js"},
 {"key":"豪华资源","name":"🛫豪华原生","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "影探VIP","name": "影视世界┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vipcms.lyyytv.cn/api.php/app/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar"    },
