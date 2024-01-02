@@ -1562,19 +1562,7 @@
 ],
 
 //测试start
-  "rules": [
-    {
-      "host": "www.iesdouyin.com",
-      "rule": [
-        "playwm/?video_id="
-      ]
-    },
-    {
-      "host": "v.douyin.com",
-      "rule": [
-        "playwm/?video_id="
-      ]
-    }
+ 
 //测试end
   "ads": [
 "mimg.0c1q0l.cn",
