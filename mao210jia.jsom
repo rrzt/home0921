@@ -1491,7 +1491,7 @@
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"      ]    },
-{      "name": "yqk",      "hosts": [        "yqk88"      ],      "regex": [        "18.4",        "15.1666"      ]    },
+{ "name": "yqk","hosts": [  "yqk88"],   "regex": [  "18.4", "15.1666" ]    },
 {"name":"索尼广告",
       "hosts":["suonizy"],
       "regex":["15.1666","15.2666","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
@@ -1556,10 +1556,25 @@
 {"host": "*","rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]},
 {"host": "www.fun4k.com","rule": ["https://hd.ijycnd.com/play","index.m3u8"  ]},
 { "host": "zjmiao.com", "rule": [ "play.videomiao.vip/API.php", "time=","key=","path=" ] },
+{"host": "www.iesdouyin.com","rule": ["playwm/?video_id="  ]  },
+{"host": "v.douyin.com", "rule": [   "playwm/?video_id=" ] },
 {"name":"快看广告","hosts":["kuaikan"],"regex":["5","20.123","20.167"]}
 ],
 
 //测试start
+  "rules": [
+    {
+      "host": "www.iesdouyin.com",
+      "rule": [
+        "playwm/?video_id="
+      ]
+    },
+    {
+      "host": "v.douyin.com",
+      "rule": [
+        "playwm/?video_id="
+      ]
+    }
 //测试end
   "ads": [
 "mimg.0c1q0l.cn",
