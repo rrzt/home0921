@@ -1046,8 +1046,8 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"Web聚合","type":3,"url":"Web"},
-{"name": "🌐Ⓤ","type": 0,"url": "","header": {"User-Agent": "Mozilla/5.0"}},
+//{"name":"Web聚合","type":3,"url":"Web"},
+//{"name": "🌐Ⓤ","type": 0,"url": "","header": {"User-Agent": "Mozilla/5.0"}},
 ///////主力解析
 
 {"name": "饭团高清ljk", "type": 0, "url": "https://www.fantuantva.com/jiexi/jiexi-gf/?url=",
