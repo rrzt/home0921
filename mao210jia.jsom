@@ -7,7 +7,7 @@
 "lives":[
 {
       "name": "live",
-      "url": "https://jihulab.com/rrzthz1/copyhome/-/raw/master/zhibo/listyouxuan.txt?ref_type=heads",
+      "url": "https://raw.gitmirror.com/rrzt/home/master/zhibo/listyouxuan.txt",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -16,7 +16,7 @@
     {"group":"redirect",
     "channels":[{
     "name":"redirect",
-    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9qaWh1bGFiLmNvbS9ycnp0aHoxL2NvcHlob21lLy0vcmF3L21hc3Rlci96aGliby9saXN0eW91eHVhbi50eHQ/cmVmX3R5cGU9aGVhZHM="]}]
+    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0bWlycm9yLmNvbS9ycnp0L2hvbWUvbWFzdGVyL3poaWJvL2xpc3R5b3V4dWFuLnR4dA=="]}]
     }],
     
   "sites": [ 
