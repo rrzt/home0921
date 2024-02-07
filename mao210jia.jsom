@@ -29,7 +29,7 @@
 {"key":"弹幕","name":"弹幕","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://gitee.com/rrzt188/home/raw/master/jar/spider1130.jar"},
 {"key":"厂长","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy66.com/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/spider1130.jar"},
 {"key":"南瓜","name":"南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2024.txt"},
-
+{"key":"豪华资源","name":"🛫豪华原生","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"低端","name":"低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/spider1130.jar"},
 //{"key":"七七","name":"👒七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/spider1130.jar"},
  {"key": "77","name": "👒┃七七┃App","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"changeable": 1 ,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fty240115.jar"},
@@ -66,10 +66,7 @@
 {"key":"光速资源","name":"光速资源","type":1,"api":"http://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","动漫电影","大陆剧","欧美剧","港澳剧","韩剧","日剧","台湾剧","泰剧","综艺","动漫","记录片"]},
 {"key":"极速资源","name":"极速资源","type":1,"api":"https://jszyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["日剧","马泰剧","内地剧","欧美剧","香港剧","韩剧","台湾剧","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","灾难片","悬疑片","犯罪片","中国动漫","日本动漫","欧美动漫"]},
 {"key":"快车资源","name":"快车资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","动画片","纪录片","国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","泰国剧","海外剧","国产动漫","日本动漫","欧美动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},
-{"key":"豪华资源","name":"🛫豪华原生","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "影探VIP","name": "影视世界┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vipcms.lyyytv.cn/api.php/app/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar"    },
-
-
 {"key":"csp_XBPQ_zhengbnongmys",    "name":"🍹正版农民影视",    "type":3,    "api":"csp_XBPQ",    "searchable":1,    "quickSearch":1,    "filterable":1,
    "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xu230316.jpg",
     "ext":"{
