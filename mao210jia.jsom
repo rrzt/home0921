@@ -30,9 +30,21 @@
 {"key":"厂长","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy66.com/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/spider1130.jar"},
 {"key":"南瓜","name":"南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2024.txt"},
 {"key":"豪华资源","name":"🛫豪华原生","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"酷看","name":"酷看┃App","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fan.txt"},
 {"key":"低端","name":"低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/spider1130.jar"},
 //{"key":"七七","name":"👒七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/spider1130.jar"},
  {"key": "77","name": "👒┃七七┃App","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"changeable": 1 ,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fty240115.jar"},
+      {
+      "key": "亮亮",
+      "name": "💡主源┃无广",
+      "type": 3,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_AppYsV2",
+      "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },   
       {
 			"key": "XAL蓝光",
 			"name": "鑫维┃蓝光",
@@ -42,7 +54,17 @@
 			"searchable": 1,
 			"quickSearch": 1
 		}, 
-      
+        {
+      "key": "二三",
+      "name": "🐭二三┃APP",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "1",
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "https://01.xu.tw.cn/down.php/751376c9824fecd9ff4f9dd8d811553e.js"
+    },
       {
       "key": "哔嘀",
       "name": "哔嘀┃影视",
@@ -1226,6 +1248,8 @@
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}    },
 {"name":"PM","url":"https://www.playm3u8.cn/jiexi.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{      "name": "亮亮🌾",      "type": 1,      "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",      "ext": {        "flag": [
+          "seven"        ],        "header": {          "User-Agent": "Lavf/58.12.100"        }      }    },
 
 {"name":"2449","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
  { "name": "谷歌",  "type": 1,   "url": "https://jx.googe.cc/api/bfq/?key=pDUrtM5UHLtQJGDTYl&url="  },
