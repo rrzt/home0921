@@ -1,7 +1,10 @@
 ###
 {     
 "spider":"https://gitee.com/rrzt188/home/raw/master/jar/230329.jar",
- 
+// "spider": "https://gitee.com/rrzt188/home/raw/master/jar/custom_spider2401.jar;md5;43485bc25714193e43f131def06329d9",
+ //"spider":"https://gitee.com/rrzt188/home/raw/master/jar/2401.jar",
+
+
 "wallpaper": "https://gitee.com/rrzt188/home/raw/master/pic/wallpaper.jpg",
 
 "lives":[
@@ -30,6 +33,8 @@
 {"key":"厂长","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy66.com/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/spider1130.jar"},
 {"key":"南瓜","name":"南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2024.txt"},
 {"key":"豪华资源","name":"🛫豪华原生","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/360影视.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/custom_spider2401.jar;md5;43485bc25714193e43f131def06329d9"},
+
 {"key":"csp_XBPQ_zhengbnongmys",    "name":"🍹正版农民影视",    "type":3,    "api":"csp_XBPQ",    "searchable":1,    "quickSearch":1,    "filterable":1,
    "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xu230316.jpg",
     "ext":"{
@@ -109,11 +114,17 @@
 {"key": "csp_SNzy","name": "🐉┃索尼┃高清","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key":"49zy","name":"🍥49资源1080","type":1,"api":"https://49zyw.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":[
 "国产剧","纪录片","欧美剧","香港剧","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","韩国剧","动漫","电影","大陆综艺","港台综艺","日韩综艺","欧美综艺","台湾剧","国产动漫","日本动漫","欧美动漫","泰国剧","日剧","电影解说","奇幻片","灾难片","悬疑片","其他片","体育赛事","海外剧"]},
+{ "key": "88","name": "🥳聚合┃资源", "type": 3, "api": "csp_XBPQ", "jar": "https://gitee.com/rrzt188/home/raw/master/jar/1.jar",
+      "ext": {    
+        "分类url": "https://m.88mv.org/vod-type-id-{cateId}-pg-{catePg}-1.html",
+        "分类": "电视剧&电影&综艺&动漫",
+        "分类值": "2&1&3&4"  } },
 {"key":"低端","name":"低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/spider1130.jar"},
 //{"key":"七七","name":"👒七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/spider1130.jar"},
  {"key": "77","name": "👒┃七七┃App","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"changeable": 1 ,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fty240115.jar"},
- { "key": "亮亮", "name": "💡主源┃无广", "type": 3, "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "api": "csp_AppYsV2", "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/", "searchable": 1, "quickSearch": 1, "changeable": 0    },   
+{ "key": "亮亮", "name": "💡亮亮┃无广", "type": 3, "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+  "api": "csp_AppYsV2", "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/", "searchable": 1, "quickSearch": 1, "changeable": 0    },   
+{"key":"赛文","name":"🐎赛文┃资源","type":3,"api":"csp_AppYsV2","ext":"http://xiutan.shiyifacai.com/zuoan/api.php/app/"},
  {"key": "XAL蓝光","name": "鑫维┃蓝光",	"type": 1,			"api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",			"playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
 			"searchable": 1,"quickSearch": 1}, 
  {
@@ -1082,7 +1093,6 @@
 {"key":"drpy_js_ikanbot3","name":"爱看机器人[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable":1,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/js/ikanbot3.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan.txt"},
 {"key":"drpy_js_达达龟","name":"影视 | 达达龟[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable":1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/达达龟.js"},
 {"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/菜狗.js"},
-{"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/优酷.js"},
 {"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/腾云驾雾.js"},
@@ -1273,7 +1283,7 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-//{"name":"Web聚合","type":3,"url":"Web"},
+{"name":"Web聚合","type":3,"url":"Web"},
 //{"name": "🌐Ⓤ","type": 0,"url": "","header": {"User-Agent": "Mozilla/5.0"}},
 ///////主力解析
 
