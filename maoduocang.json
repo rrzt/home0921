@@ -6,6 +6,10 @@ urls:[
 name:"无界",
 url:"https://agit.ai/wekeyfisrt/tvzhibo/raw/branch/main/wj.json"
 },
+{"name": "壹梦主力", "url": "https://agit.ai/2011820123/tvbox/raw/branch/master/壹梦主力.txt"},
+{"name": "酷玩主力", "url": "https://agit.ai/2011820123/tvbox/raw/branch/master/酷玩主力.txt"},
+{"name": "文坤主力", "url": "https://agit.ai/2011820123/tvbox/raw/branch/master/文坤主力.txt"},
+ {"name": "千软汇主", "url": "https://agit.ai/2011820123/tvbox/raw/branch/master/千软汇主.txt"},
 
 {
 name:"liutianyun-gao0821",
