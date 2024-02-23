@@ -1,22 +1,12 @@
 {
 urls:[
 
-{
-name:"🦖最全最强",
-url:"https://agit.ai/2011820123/tvbox/raw/branch/master/🚖地表最强接口.txt"
-},
+
 {
 name:"无界",
 url:"https://agit.ai/wekeyfisrt/tvzhibo/raw/branch/main/wj.json"
 },
-{
-name:"T2",
-url:"https://github.moeyy.xyz/https://github.com/wlcmc1972/tvbox/blob/main/t2.json"
-},
-{
-name:"二哈",
-url:"https://github.moeyy.xyz/https://github.com/2hacc/TVBox/blob/main/tvbox.json"
-},
+
 {
 name:"liutianyun-gao0821",
 url:"https://github.moeyy.xyz/https://github.com/gaotianliuyun/gao/blob/master/0821.json"
@@ -28,7 +18,7 @@ url:"https://github.moeyy.xyz/https://github.com/gaotianliuyun/gao/blob/master/0
 
 
 {
-url:"https://agit.ai/kvymin/TV/raw/branch/master/Pandora.json",
+url:"https://agit.ai/kvymin/TVRule/raw/branch/main/config.json",
 name:"💎kvymin线路"
 },
 	{url:"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json",name:"影视"},
