@@ -10,6 +10,9 @@ url:"https://agit.ai/wekeyfisrt/tvzhibo/raw/branch/main/wj.json"
 {"name": "酷玩主力", "url": "https://agit.ai/2011820123/tvbox/raw/branch/master/酷玩主力.txt"},
 {"name": "文坤主力", "url": "https://agit.ai/2011820123/tvbox/raw/branch/master/文坤主力.txt"},
  {"name": "千软汇主", "url": "https://agit.ai/2011820123/tvbox/raw/branch/master/千软汇主.txt"},
+ {  "url": "https://agit.ai/ls125781003/tvboxtg/raw/branch/main/小胡/api.json", "name": "小胡" },
+ {"name":"🚖地表最强接口","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/tvbox/master/🚖地表最强接口.txt"},
+ {"name":"综合全","url":"https://agit.ai/wekeyfisrt/TVX/raw/branch/main/X.json"},
 
 {
 name:"liutianyun-gao0821",
@@ -116,12 +119,6 @@ url:"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
 name:"南风线路"
 },
 
-
-
-{
-url:"https://www.agit.ai/n/b/raw/branch/a/b/c.json",
-name:"ImABC"
-},
 
 {
 url:"https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/0.json",
