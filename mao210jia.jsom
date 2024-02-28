@@ -59,6 +59,7 @@
             "jar": "https://gitee.com/rrzt188/home/raw/master/jar/bulei.jar"
         },
 {"key": "csp_XYQHiker_‍dyx","name": "🪐┃影港┃4k","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/dyg.json","jar": "https://gitee.com/rrzt188/home/raw/master/jar/spider1201.txt" },
+{"key": "csp_XYQHiker_北川影视", "name": "🍝┃北川┃影视", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/北川影视1.json","jar": "https://gitee.com/rrzt188/home/raw/master/jar/homespiders.jar;md5;9709252CC3CA4B015A2F86C128A06DB3" },
 
  { "key": "无心影视",            "name": "影视 | 无心影视", "type": 3, "api": "csp_XBPQ", "filterable":1, "searchable":1,"quickSearch":1,
             "ext":"分类url:https://www.57mv.cn/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}/,分类:电影$1#电视剧$2#综艺$3#动漫$4#动画片$20#短剧$29","jar": "https://gitee.com/rrzt188/home/raw/master/jar/文坤主力.jar" },
@@ -293,7 +294,6 @@
 {"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://www.6080yy3.com/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2.txt"}, 
 {"key":"zxzj","name":"📗在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://www.zxzj.pro/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
 {"key":"贱贱","name":"🐭贱贱┃p2p","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/jp.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2.txt"},
-{"key":"探探", "name":"🏵探影(SP)","type":3, "api":"csp_YTVIP", "searchable":1,"quickSearch":1,"filterable":1,"changeable":1, "ext": "vip.lyyytv.cn","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2.txt" },
 {"key":"百度","name":"百度┃采集","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2.txt"},
 {"key":"量子","name":"量子┃采集","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2.txt"},
 {"key":"非凡","name":"非凡┃采集","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2.txt"},
@@ -357,15 +357,10 @@
 
 {"key":"csp_AppMr","name":"明明┃App","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
 //{"key":"csp_Xinsj","name":"视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.6080yy3.com/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
-{"key": "Cokemv","name": "📕可乐┃直连","type": 3,"api": "csp_Cokemv","playerType": 2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fty.jar"},
 {"key":"csp_Vofl","name":"Vofl┃直连","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
-{"key":"csp_Auete","name":"奥特┃直连","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
 {"key":"csp_zxzj","name":"在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzj.pro/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
- {"key":"红红","name":"🌈彩虹影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bbq.1006.tk/icciu_api.php/v1.vod"},
 {"key":"csp_Bttoo","name":"✌比特┃直连","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan.txt"},
-{"key":"csp_Dy1010","name":"❤️双十┃直连","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan.txt"},
  { "key": "csp_AppYsV2_如意",  "name": "🍝┃如意┃APP","type": 3,  "api": "csp_AppYsV2", "searchable":1, "quickSearch":1, "filterable":1,    "playerType": 1, "playurl":"json:https://jx.4kdv.com/?url=", "ext":"http://cms.maoyingshi.cc/api.php/app/"   },
-{"key": "csp_XYQHiker_北川影视", "name": "🍝┃北川┃影视", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/北川影视1.json","jar": "https://gitee.com/rrzt188/home/raw/master/jar/homespiders.jar;md5;9709252CC3CA4B015A2F86C128A06DB3" },
 
   {
       "key": "saohuo",
@@ -517,45 +512,7 @@
         "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
       }
     },
-{
-      "key": "淘剧",
-      "name": "🍑┃淘剧┃",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar",
-      "ext": {
-        "主页url": "http://dyxz.tv",
-        "数组": "<div class=\"stui-vodlist__box\">&&</div>",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "嗅探词": "v3.toutiaovod.com#.m3u8#.mp4#/tos/",
-        "副标题": "<span class=\"pic-text text-right\">&&</span>",
-        "搜索url": "http://dyxz.tv/search.php;post;searchword={wd}",
-        "搜索模式": "1",
-        "搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索标题": "title=\"&&\"",
-        "搜索链接": "href=\"&&\"",
-        "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
-        "搜索后缀": "/view/",
-        "线路数组": "<a data-toggle=\"tab\"&&/a>",
-        "线路标题": ">&&<",
-        "播放数组": "<ul class=\"stui-content__playlist clearfix&&</ul>",
-        "影片年代": "年份：&&</p>",
-        "影片地区": "地区：&&<span",
-        "影片类型": "类型：&&</a>",
-        "导演": "导演：&&</p>",
-        "主演": "主演：&&</p>",
-        "简介": "更新：&&</p>",
-        "播放列表": "<a&&/a>",
-        "播放标题": ">&&<",
-        "播放链接": "href=\"&&\"",
-        "免嗅": "0",
-        "分类url": "http://dyxz.tv/list/{cateId}_{catePg}.html",
-        "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
-      }
-    },
+
 {
       "key": "cjzy_暴风资源",
       "name": "🎈┃暴风┃",
