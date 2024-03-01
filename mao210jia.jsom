@@ -34,6 +34,8 @@
 {"key":"南瓜","name":"南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2024.txt"},
 {"key":"豪华资源","name":"🛫豪华原生","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 { "key": "360", "name": "🔱360┃影视","type": 3,"api": "csp_SP360", "filterable": 1, "quickSearch": 1,"searchable": 1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/小胡.jar;md5;6120d08f4eb1edce507bfcd1b339c482" },
+{"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/菜狗2024.js"},
+
 { "key": "drpy_优酷", "name": "优酷","type": 3,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js",  "searchable": 1, "quickSearch": 1,  "filterable": 1,
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/rrzt/home/master/js/youku240223.js" ,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/custom_spider2401.jar;md5;43485bc25714193e43f131def06329d9"},
 {"key":"drpy_腾讯","name":"腾讯","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/js/txqq.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/custom_spider2401.jar;md5;43485bc25714193e43f131def06329d9"},
@@ -941,7 +943,6 @@
 
 {"key":"drpy_js_ikanbot3","name":"爱看机器人[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable":1,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/js/ikanbot3.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan.txt"},
 {"key":"drpy_js_达达龟","name":"影视 | 达达龟[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable":1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/达达龟.js"},
-{"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/菜狗.js"},
 {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/优酷.js"},
 {"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/腾云驾雾.js"},
