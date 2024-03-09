@@ -34,7 +34,7 @@
 {"key":"南瓜","name":"南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2024.txt"},
 {"key":"豪华资源","name":"🛫豪华原生","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 { "key": "360", "name": "🔱360┃影视","type": 3,"api": "csp_SP360", "filterable": 1, "quickSearch": 1,"searchable": 1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/小胡.jar;md5;6120d08f4eb1edce507bfcd1b339c482" },
-{"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/菜狗2024.js"},
+{"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/菜狗2024.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/custom_spider2401.jar;md5;43485bc25714193e43f131def06329d9"},
 
 { "key": "drpy_优酷", "name": "优酷","type": 3,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js",  "searchable": 1, "quickSearch": 1,  "filterable": 1,
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/rrzt/home/master/js/youku240223.js" ,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/custom_spider2401.jar;md5;43485bc25714193e43f131def06329d9"},
@@ -45,6 +45,8 @@
 { "key":"皮皮虾", "name":"🦐┃皮皮影视", "type":3,"api":"csp_AppSK","searchable":1,	"quickSearch":1,"filterable":1,
 	"ext":"FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="
 ,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/custom_spider240226.jar;md5;87d5916b7bb5c8acacac5490e802828e"},
+{"key":"Lib","name": "👒┃LIBVIO┃8K","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable":1,"changeable":1,"ext":"https://www.libvio.pw/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan240309.txt"},
+{"key":"996影视","name":"👁️┃996影视┃JS","type":3,"viewType": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/996.js"},
  {"key":"畅梦","name":"🍋畅梦秒播","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/changmeng2024.js"},
  {"key":"csp_午舞","name":"🅱️┃午舞┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/rrzt188/home/raw/master/jar/HCCX.jar","ext":"https://gitee.com/rrzt188/home/raw/master/js/五五影视.json"},
  {"key":"csp_日后","name":"🅱️┃348┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/rrzt188/home/raw/master/jar/HCCX.jar","ext":"https://gitee.com/rrzt188/home/raw/master/js/348影视.json"},
@@ -309,7 +311,6 @@
 {"key": "AppYs_南瓜","name": "🍚VIP专享1080P-A","type": 3,"playerType": 2,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://gitee.com/rrzt188/home/raw/master/js/南瓜1.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/0606.jar" },
 {"key":"北极狐", "name": "💧北极狐┃4K", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "2", "ext": "https://www.kuin.one/api.php/app/"},
 {"key":"迪迪","name":"迪迪┃App","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
- {"key":"csp_Lib","name": "利播┃直连","type": 3,"api": "csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://www.libvio.pro/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
 //{"key":"探探","name":"探探┃App","type":3,"playerType":"1","api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
 {"key":"csp_YQKAPP","name":"一起┃App","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://api-aws.11ty.top","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
 //{"key":"csp_kuaikan","name":"快看┃App","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
@@ -930,7 +931,6 @@
 {"key":"MGT","name":"🍋芒果官源","type":3,"api":"csp_Mgtv", "searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/you.jar" },
   { "key":"teng", "name":"🐧腾讯官源","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/you.jar"  },
 {"key":"DNSP_spider","name":"酷酷影视","api":"csp_Dnsp","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://121.62.19.116:1996","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fix230320.jar"},
-{"key":"csp_Lib","name": "🌟利奥┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://tv.libvio.cc/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan.txt"},
 
 //key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.tv","jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile.jar"},
 //爬虫
