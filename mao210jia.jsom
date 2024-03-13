@@ -33,6 +33,23 @@
 {"key":"Cz","name":"🏭厂长┃影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bo.czys.me/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/spider240224.jar"},
 {"key":"南瓜","name":"南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2024.txt"},
 {"key":"豪华资源","name":"🛫豪华原生","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "bp", "name": "❄️️白嫖┃影视", "type": 3,"searchable": 1, "changeable": 1, "jar": "https://gitee.com/rrzt188/home/raw/master/jar/bp.jar",
+            "api": "csp_XBPQ",
+            "ext": {
+                "主页url": "http://www.baipiaoys.cc/",
+                "副标题": "pic-text text-right\">&&</b>",
+                "搜索模式": "1",
+                "搜索url": "https://www.baipiaoys.cc/search.html?wd={wd}",
+                "图片": "data-original=\"&&\"",
+                "嗅探词": ".mp4#m3u8#.m3u8",
+                "线路标题": "白嫖主力",
+                "线路数组": "白嫖主力",
+                "分类": "电影$1#电视剧$2#动漫$3",
+                "分类url": "http://www.baipiaoys.cc/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
+            }
+        },
+{"key":"drpy_js_Voflix","name":"影视 | Voflix[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/Voflix.js"},
+
 { "key": "360", "name": "🔱360┃影视","type": 3,"api": "csp_SP360", "filterable": 1, "quickSearch": 1,"searchable": 1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/小胡.jar;md5;6120d08f4eb1edce507bfcd1b339c482" },
 {"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/菜狗2024.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/custom_spider2401.jar;md5;43485bc25714193e43f131def06329d9"},
 
@@ -955,7 +972,6 @@
 {"key":"drpy_js_两个 BT","name":"影视 | 两个BT[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/两个BT.js"},
 
 {"key":"drpy_js_91free","name":"影视 | 91free[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/91free.js"},
-{"key":"drpy_js_Voflix","name":"影视 | Voflix[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/Voflix.js"},
 {"key":"drpy_js_B站影视","name":"影视 | B站影视[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/B站影视.js"},
 {"key":"drpy_js_555影视[V2]","name":"影视 | 555影视[V2][js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/555影视[V2].js"},
 {"key":"drpy_js_9U电影","name":"影视 | 9U电影[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/9U电影.js"},
@@ -1164,6 +1180,7 @@
 {"name": "虾米1","type": 0,"url": "https://jx.xmflv.cc/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","搜狐","sohu","letv","乐视","bilibili","哔哩哔哩","哔哩","xigua","西瓜","1905","ltnb","renrenmi","rx","rongxing","imgo"]}},
 
 {"name":"2-parwix稳定","type": 0,"url": "https://jx.jsonplayer.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩","imgo"]}},
+{ "name": "蚂蚁", "type": 0,  "url": "http://103.233.255.142:1133/?url=", "ext": { "flag": [ "NBY" ], "header": {  "User-Agent": "okhttp/4.1.0" } }        },
 {"name":"邦宁云播放器","type":0,"url":"https://video.isyour.love/player/getplayer?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩","imgo"]}},
  {"name": "8090G(爱优腾乐搜)","type":0,"url": "https://www.8090g.cn/jiexi/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
  {"name":"777播放器","type": 0,"url": "https://jx.777jiexi.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩","imgo"]}},  
