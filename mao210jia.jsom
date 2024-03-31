@@ -1,6 +1,7 @@
 ###
 {     
-"spider":"https://gitee.com/rrzt188/home/raw/master/jar/230329.jar",
+"spider":"https://gitee.com/rrzt188/home/raw/master/jar/fty240331.jar",
+//"spider":"https://gitee.com/rrzt188/home/raw/master/jar/230329.jar",
 // "spider": "https://gitee.com/rrzt188/home/raw/master/jar/custom_spider2401.jar;md5;43485bc25714193e43f131def06329d9",
  //"spider":"https://gitee.com/rrzt188/home/raw/master/jar/2401.jar",
 
@@ -114,7 +115,7 @@
 {"key":"drpy_js_Voflix","name":"Voflix[js]┃无广","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/Voflix.js"},
  {"key": "csp_兔年", "name": "🐇┃YYD┃无广", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
       "ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/YYDS影视.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar" },
-{"key":"csp_Kuaikan" ,"name":"🐞快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kuaikan" ,"name":"🐞快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/230329.jar"},
 {"key":"一起看","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/spider1130.jar"},
 {"key":"弹幕","name":"弹幕","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://gitee.com/rrzt188/home/raw/master/jar/spider1130.jar"},
 {"key":"Cz","name":"🏭厂长┃无广","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bo.czys.me/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/spider240224.jar"},
@@ -1097,6 +1098,12 @@
 {"key":"U酷资源","name":"U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"一点影视","name":"一点影视(优)","type":1,"api":"https://m3u8.movurl.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
  
+    {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/jar/alist.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/jar/alist.json"},
+    {"key": "本地","name": "本地存储","type": 3,"api": "csp_Local","searchable": 0,"changeable": 0},
+    {"key": "AList","name": "AList","type": 3,"api": "csp_AList","searchable": 1,"changeable": 0,"ext": "https://gitee.com/rrzt188/home/raw/master/jar/alist1.json"},
+    {"key": "WebDAV","name": "WebDAV","type": 3,"api": "csp_WebDAV","searchable": 1,"changeable": 0,"ext": "https://gitee.com/rrzt188/home/raw/master/jar/webdav.json"},
+        {"key": "push_agent","name": "🛴┃手机┃推送","type": 3,"api": "csp_Push","searchable": 0,"quickSearch": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd" },
+
 {"key":"雨哥哥影视","name":"雨哥哥影视(聚)","type":1,"api":"http://cj.baozi66.top:66/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
  {
