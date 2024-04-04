@@ -13,17 +13,20 @@
 "lives":[
 {
       "name": "live",
-      "url": "https://raw.gitmirror.com/rrzt/home/master/zhibo/listyouxuan.txt",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/rrzt/home/master/zhibo/listyouxuan.txt",
       "type": 0,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
     },    
     {"group":"redirect",
     "channels":[{
-    "name":"redirect",
-    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0bWlycm9yLmNvbS9ycnp0L2hvbWUvbWFzdGVyL3poaWJvL2xpc3R5b3V4dWFuLnR4dA=="]}]
-    }],
+   "name":"redirect",
+    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIubW9leXkueHl6L2h0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9ycnp0L2hvbWUvbWFzdGVyL3poaWJvL2xpc3R5b3V4dWFuLnR4dA=="]}]    }
+
+ // {"name": "listyouxuan","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/rrzt/home/master/zhibo/listyouxuan.m3u",//"playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"    }
+ 
+ ],
     
   "sites": [ 
 //爬虫
