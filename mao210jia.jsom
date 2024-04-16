@@ -30,7 +30,7 @@
     
   "sites": [ 
 //爬虫
-{"key": "豆瓣","name": "🌕┃豆瓣┃💢v2401","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fty2024.jar"},
+{"key": "豆瓣","name": "🌕┃豆瓣┃💢v2401","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fty240416.jar"},
 {"key": "drpy_js_豆瓣", "name": "🔥豆瓣热播┃JS", "type": 3, "api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy.min.js", "ext": "https://gitee.com/rrzt188/home/raw/master/js/豆瓣.js"},
 {"key":"996影视","name":"👁️┃996影视┃JS","type":3,"viewType": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/996.js"},
 {"key":"豪华资源","name":"🛫豪华原生┃无广","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
