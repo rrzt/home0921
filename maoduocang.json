@@ -1,6 +1,11 @@
 {
 urls:[
  {
+name:"MY采集",
+url:"https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/aa/main/my%E9%87%87%E9%9B%86.json"
+},
+    
+ {
 name:"PG",
 url:"https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/jsm.json"
 },
