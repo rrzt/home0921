@@ -1,5 +1,9 @@
 {
 urls:[
+ {
+name:"PG",
+url:"https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/jsm.json"
+},
 {
 name:"warehouse",
 url:"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt"
