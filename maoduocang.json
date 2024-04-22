@@ -1,6 +1,9 @@
 {
 urls:[
-
+{
+name:"warehouse",
+url:"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt"
+},
 
 {
 name:"无界",
