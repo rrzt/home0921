@@ -261,7 +261,7 @@
  { "key": "鑫鑫影视",  "name": "🐼┃鑫鑫┃无广", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1,"filterable": 1, "ext": "http://yingszj.xn--654a.cc/api.php/app/"    },
 //{"key": "nangua","name": "🎃┃南瓜┃影视","type": 3,"playerType": "2","api": "./libs/js/drpy2.min.js","ext": "./libs/js/南瓜.js"},
 //{"key":"南瓜","name":"南瓜┃App无广","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,//"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2024.txt"},
-{ "key": "AppYs_南瓜", "name": "🎇南瓜影视", "type": 3, "playerType": 2, "api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js", "changeable": 1,"searchable": 1,"quickSearch": 1, "ext": "https://gitee.com/rrzt188/home/raw/master/js/南瓜.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/0606.jar" }, 
+{ "key": "AppYs_南瓜", "name": "🎇南瓜┃无广", "type": 3, "playerType": 2, "api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js", "changeable": 1,"searchable": 1,"quickSearch": 1, "filterable":1,"ext": "https://gitee.com/rrzt188/home/raw/master/js/南瓜.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/0606.jar" }, 
 {"key": "js_Xinsj","name":"🐠┃视觉┃影院","type": 3,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.moeyy.cn/https://github.com/rrzt/home/blob/master/js/xsj.js"},
 {"key": "Xinsj","name": "👓视觉┃直连","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"ext": "https://www.hdmyy.com/" ,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fty.jar"},
 //{"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,//"ext":"https://www.6080yy3.com/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2.txt"}, 
@@ -756,7 +756,7 @@
 
 { "key": "360", "name": "🔱360┃无广","type": 3,"api": "csp_SP360", "filterable": 1, "quickSearch": 1,"searchable": 1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/小胡.jar;md5;6120d08f4eb1edce507bfcd1b339c482" },
 {"key":"drpy_js_Voflix","name":"Voflix[js]┃无广","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/Voflix.js"},
- {"key": "csp_兔年", "name": "🐇┃YYD┃无广", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
+ {"key": "csp_兔年", "name": "🐇┃YYD┃有广", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
       "ext": "https://gitee.com/rrzt188/home/raw/master/MEOWXB/YYDS影视.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar" },
 {"key":"csp_Kuaikan" ,"name":"🐞快看影视","type":3,"api":"csp_Kuaikan", "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/230329.jar"},
 {"key":"一起看","name":"一起看","type":3,"api":"csp_YQKan", "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/spider1130.jar"},
