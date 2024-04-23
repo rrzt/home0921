@@ -255,7 +255,7 @@
  {"key": "萌米","name": "👀┃萌米┃App","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 1,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
 {"key": "Auete","name": "🏝┃Auete┃直连","type": 3,"api": "csp_Auete","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/"    },
-{"key": "小柚","name": "🍊┃小柚┃App","type": 3,"api": "csp_AppSK","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="},
+{"key": "小柚","name": "🍊┃小柚┃无广","type": 3,"api": "csp_AppSK","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="},
  {"key": "P4_Vidhub2","name": "🎼┃Vid┃影视","type": 3,"api": "csp_Vidhub2","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/rrzt188/home/raw/master/jar/P4.jar"},
 {"key": "虎虎","name": "🐯┃虎虎┃影视","type": 3,"api": "csp_Panda","jar": "https://gitee.com/rrzt188/home/raw/master/jar/P3.jar","ext": "https://gitee.com/rrzt188/home/raw/master/js/虎虎.json"},
  { "key": "鑫鑫影视",  "name": "🐼┃鑫鑫┃无广", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1,"filterable": 1, "ext": "http://yingszj.xn--654a.cc/api.php/app/"    },
