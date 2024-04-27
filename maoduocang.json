@@ -27,14 +27,17 @@ url:"https://agit.ai/wekeyfisrt/tvzhibo/raw/branch/main/wj.json"
  {"name":"综合全","url":"https://agit.ai/wekeyfisrt/TVX/raw/branch/main/X.json"},
 
 {
-name:"liutianyun-gao0821",
+name:"gao0821饭太硬优化",
 url:"https://github.moeyy.xyz/https://github.com/gaotianliuyun/gao/blob/master/0821.json"
 },
 {
-name:"liutianyun-gao0825",
+name:"gao0825-PG",
 url:"https://github.moeyy.xyz/https://github.com/gaotianliuyun/gao/blob/master/0825.json"
 },
-
+{
+name:"gao0826-饭太硬",
+url:"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/04c1ea06e8e7923e65fc7f3f3007ed0f96dcf2d3/0826.json#L29"
+},
 
 {
 url:"https://agit.ai/kvymin/TVRule/raw/branch/main/config.json",
