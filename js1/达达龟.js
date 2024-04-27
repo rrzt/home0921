@@ -2,7 +2,7 @@ muban.首图2.二级.desc = 'p.data:eq(-1)&&Text;;;p.data:eq(-2)&&Text;p.data:eq
 var rule = {
     title:'达达龟',
     模板:'首图2',
-    host:'https://www.dadagui.me',
+    host:'https://www.jugege.cc/',
     // url:'/vodshow/fyclass--------fypage---.html',
     url:'/vodshow/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
