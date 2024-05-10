@@ -21,18 +21,9 @@ name:"warehouse",
 url:"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt"
 },
 
-{
-name:"无界",
-url:"https://agit.ai/wekeyfisrt/tvzhibo/raw/branch/main/wj.json"
-},
-{"name": "壹梦主力", "url": "https://agit.ai/2011820123/tvbox/raw/branch/master/壹梦主力.txt"},
-{"name": "酷玩主力", "url": "https://agit.ai/2011820123/tvbox/raw/branch/master/酷玩主力.txt"},
-{"name": "文坤主力", "url": "https://agit.ai/2011820123/tvbox/raw/branch/master/文坤主力.txt"},
- {"name": "千软汇主", "url": "https://agit.ai/2011820123/tvbox/raw/branch/master/千软汇主.txt"},
- {  "url": "https://agit.ai/ls125781003/tvboxtg/raw/branch/main/小胡/api.json", "name": "小胡" },
- {"name":"🚖地表最强接口","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/tvbox/master/🚖地表最强接口.txt"},
- {"name":"综合全","url":"https://agit.ai/wekeyfisrt/TVX/raw/branch/main/X.json"},
 
+ {"name":"🚖地表最强接口","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/tvbox/master/🚖地表最强接口.txt"},
+ 
 {
 name:"gao0821饭太硬优化",
 url:"https://github.moeyy.xyz/https://github.com/gaotianliuyun/gao/blob/master/0821.json"
@@ -50,41 +41,18 @@ name:"gao0826-JS道长",
 url:"https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@04c1ea06e8e7923e65fc7f3f3007ed0f96dcf2d3/js.json#L123"
 },
 
-{
-url:"https://agit.ai/kvymin/TVRule/raw/branch/main/config.json",
-name:"💎kvymin线路"
-},
 	{url:"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json",name:"影视"},
-	{"name":"🦄️┃湯┃影視(agit.ai)","url":"https://agit.ai/alanchaotang/if/raw/branch/main/X.json"},
-{"name":"🍊┃湯┃影視(PG)","url":"https://agit.ai/alanchaotang/if/raw/branch/main/PG.json"},
-{"name":"🚒┃湯┃Kooger","url":"https://hezi.tvboxhz.top/TVBOX盒子"},
-{"name":"🐼┃湯┃肥猫猫","url":"http://肥猫.live"},
-{"name":"🔅┃湯┃业余打发","url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymz"}, 
-{"name":"🍺┃湯┃道长源","url":"https://pastebin.com/raw/5NHaxyGR"}, 
-{"name":"🔪┃湯┃小武哥","url":"https://qu.ax/SOBs.json"}, 
-{"name":"🥋┃湯┃小武哥哥","url":"https://qu.ax/hFnL.json"}, 
-{"name":"🎏┃湯┃俊于源","url":"http://home.jundie.top:81/top98.json"}, 
-{"name":"🍉┃湯┃骚零源","url":"https://xhdwc.tk/0"},   
-{"name":"📿┃湯┃神秘哥哥","url":"https://神器每日推送.tk/pz.json"},
-{"name":"🐄┃湯┃牛哥","url":"http://yingshi.fongmi.eu.org"},
-{"name":"🏡┃湯┃潇洒","url":"https://la.kstore.space/download/2863/01.txt"},
-{"name":"🍋┃湯┃云星","url":"http://itvbox.cc/tvbox/云星日记/1.m3u8"},
+
 	{url:"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/磁力/api.json",name:"磁力"},
 	{url:"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/api.json",name:"云盘"},
 
  {url:"https://jihulab.com/wanda/4k/-/raw/main/m.json?ref_type=heads",name:"万达"},
-  {url:"https://agit.ai/guot54/YGBH2024/raw/branch/main/box%e5%8e%9f.json",name:"YGBH2024"},
-
-		
+	
 		{
 			"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
 			"name": "👑夜猫少儿👑"
 		},
-		{
-			"url": "https://agit.ai/hu/hcr/raw/branch/master/%E7%9F%AD%E5%89%A7.json",
-			"name": "👑短剧专线👑"
-		},
-		
+				
 		{
 			"url": "http://ysc.weixine.net:88/荷城茶秀",
 			"name": "👑荷城茶秀👑"
@@ -99,18 +67,6 @@ name:"💎kvymin线路"
       "name": "👑潇洒仓",
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
     },
-
-    
-
-    {
-      "name": "🏵️影音资源",
-      "url": "https://agit.ai/1018610504/yytt/raw/branch/main/tongyong.json"
-    },
-    
-{
-name:"👭人人砂锅",
-url:"https://agit.ai/376242575/zzh/raw/branch/master/txt/影视.txt"
-},
 
 {
 url:"http://xhww.fun:63/小米/DEMO.json",
@@ -140,23 +96,8 @@ name:"菜妮丝线路"
 },
 
 {
-url:"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-name:"南风线路"
-},
-
-
-{
 url:"https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/0.json",
 name:"Ray"
-},
-
-{
-url:"https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json",
-name:"📝月光宝盒📝"
-},
-{
-url:"https://agit.ai/guot54/yg24/raw/branch/main/box原.json",
-name:"📝月光宝盒2📝"
 },
 
 {
@@ -167,11 +108,6 @@ name:"🚀巧记线路"
 {
 url:"https://raw.liucn.cc/box/m.json",
 name:"🚀老刘备线路"
-},
-
-{
-url:"https://agit.ai/n/b/raw/branch/a/b/c.json",
-name:"💎agit/abc线路"
 }
 
 ]
