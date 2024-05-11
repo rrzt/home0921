@@ -342,6 +342,47 @@
       "jar":"https://gitee.com/rrzt188/home/raw/master/jar/XBPQWG240508.jar" 
     },
 {"key": "白嫖","name": "👻┃白飘┃无广","type": 3,"api": "csp_BaiPiao","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.baipiaoys.com:9092/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan240427.txt;md5;ff2a62d70456f5ccc45f5e17b24d4a45"    },
+{"key":"XBPQ_BaiPiao","name":"白嫖影视|XBPQ","type":3,"api":"csp_XBPQ", "jar":"https://gitee.com/rrzt188/home/raw/master/jar/XBPQWG240508.jar",
+			"ext": {
+				"地区":"[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]",
+				"分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
+				"分类url": "https://www.baipiaoys.com:9092/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+			}
+		},
+		{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"https://gitee.com/rrzt188/home/raw/master/jar/XBPQWG240508.jar",
+			"ext": {
+				"站名": "黑狐影院",
+				"主页url": "http://fagmn.com",
+				"数组": "class=\"stui-vodlist__box\"&&</a",
+				"图片": "data-original=\"&&\"",
+				"标题": "title=\"&&\"",
+				"链接": "href=\"&&\"",
+				"嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
+				"过滤词": "/hls/#php",
+				"副标题": "<span class=\"pic-text text-right\">&&</span>",
+				"搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
+				"搜索模式": "1",
+				"搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
+				"搜索图片": "data-original=\"&&\"",
+				"搜索标题": "title=\"&&\"",
+				"搜索链接": "href=\"&&\"",
+				"搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
+				"搜索后缀": "/view/",
+				"线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
+				"线路标题": ">&&<",
+				"播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
+				"状态": "地区：&&</p>",
+				"导演": "导演：&&</p>",
+				"主演": "主演：&&</p>",
+				"简介": "简介：&&</div>",
+				"播放列表": "<a&&/a>",
+				"播放标题": ">&&<",
+				"播放链接": "href=\"&&\"",
+				"免嗅": "0",
+				"分类": "电影$1#电视剧$2#动漫$3#综艺$4",
+				"分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
+			}
+		},
 {"key":"XBPQ_文才","name":"文才|XBPQ","type":3,"api":"csp_XBPQ",
             "jar":"https://gitee.com/rrzt188/home/raw/master/jar/XBPQWG240508.jar",
 			"ext":{"分类": "国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧",
@@ -379,6 +420,28 @@
 				"页面代理":"proxy"
 			}
 		},
+   {
+            "key": "Icio影视",
+            "name": "Icio影视",
+            "type": 3,
+            "api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://gitee.com/rrzt188/home/raw/master/js/lcio.js"
+        },
+{"key":"乌龟影院",
+	"name":"🔥乌龟┃影院🔥",
+	"type":3,
+	"api":"csp_XBPQ",
+	  "jar":"https://gitee.com/rrzt188/home/raw/master/jar/XBPQWG240508.jar",
+	"quickSearch":1,
+	"filterable":0,
+	"ext":{"嗅探词":".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
+	"分类":"电影$dianying#剧集$lianxuju#动漫$dongman#综艺$zongyi#",
+	"分类url":"http://www.wuguiyy.cc/show/{cateId}-{area}-{by}------{catePg}---{year}/",
+	"数组":"stui-vodlist__box&&</div>","简介":"剧情：</span>&&</span>"}},
 {
 			"key": "无极影院",
 			"name": "😁无极影院",
@@ -392,7 +455,7 @@
 		},
 {"key":"csp_AppMr","name":"明明┃App","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"changeable":1,"filterable": 1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
 
-  
+ {"key":"屁股_影视","name":"🍖┃影视┃秒播","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"changeable":1,   "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/rrzt/home/master/jar/pg-wg20240508.jar","ext":""}, 
     {
       "key": "素白",
       "name": "🦢┃小白┃",
@@ -629,17 +692,7 @@
         "分类": "电影$dianying#电视剧$dsj#动漫$dongman#综艺$zongyi"
     }
 },	
-{
-            "key": "dushe影视",
-            "name": "🔥首播影视🔥",
-            "type": 3,
-				"jar":"https://gitee.com/rrzt188/home/raw/master/jar/XBPQWG240508.jar",
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-           "ext":{"分类url": "https://shoubozhan.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-      "分类": "电视剧$2#电影$1#动漫$4#综艺$3#短剧$32"}},
+
 	{     "key":"1212",
            "name":"🔥APP影院🔥",
            "type":3,"api":"csp_XBPQ",
@@ -1642,49 +1695,7 @@
       "jar": "https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar",
       "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
     },
-{
-      "key": "黑狐",
-      "name": "🦊┃黑狐┃",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/yytt.jar",
-      "playerType": "2",
-      "api": "csp_XBPQ",
-      "ext": {
-        "站名": "黑狐影院",
-        "主页url": "http://fagmn.com",
-        "数组": "class=\"stui-vodlist__box\"&&</a",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "嗅探词": ".m3u8#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
-        "过滤词": "/hls/#php",
-        "副标题": "<span class=\"pic-text text-right\">&&</span>",
-        "搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
-        "搜索模式": "1",
-        "搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索标题": "title=\"&&\"",
-        "搜索链接": "href=\"&&\"",
-        "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
-        "搜索后缀": "/view/",
-        "线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
-        "线路标题": ">&&<",
-        "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
-        "状态": "地区：&&</p>",
-        "导演": "导演：&&</p>",
-        "主演": "主演：&&</p>",
-        "简介": "简介：&&</div>",
-        "播放列表": "<a&&/a>",
-        "播放标题": ">&&<",
-        "播放链接": "href=\"&&\"",
-        "免嗅": "0",
-        "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
-        "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
-      }
-    },
+
 {
       "key": "爱看",
       "name": "❤️┃爱看┃",
@@ -2017,7 +2028,6 @@
 {"key":"drpy_js_量子影视","name":"影视 | 量子影视[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/量子影视.js"},
 {"key":"drpy_js_胖虎影视","name":"影视 | 胖虎影视[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/胖虎影视.js"},
 {"key":"drpy_js_视中影视","name":"影视 | 视中影视[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/视中心影视.js"},
-{"key":"drpy_js_首播影院","name":"影视 | 首播影院[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/首播影院.js"},
 {"key":"drpy_js_四个圈儿","name":"影视 | 四个圈儿[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/四个圈影视.js"},
 {"key":"drpy_js_我爱跟剧","name":"影视 | 我爱跟剧[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/我爱跟剧.js"},
 {"key":"drpy_js_西瓜影视","name":"影视 | 西瓜影视[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/西瓜影视.js"},
