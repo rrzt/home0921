@@ -42,7 +42,17 @@
       "quickSearch": 1,
       "filterable": 1
     },
- 
+  {
+      "key": "csp_Kuaikan",
+      "name": "👀快看",
+      "type": 3,
+      "api": "csp_Kuaikan",
+       "jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
 {"key":"豪华资源","name":"🛫豪华原生┃无广","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,
             "categories": [
                 "国产动漫",
