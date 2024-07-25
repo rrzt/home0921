@@ -37,7 +37,79 @@
       "name": "🔥月光快看🔥",
       "type": 3,
       "api": "csp_Kuaikan",
-       "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/rrzt/home/master/jar/pg-wg20240508.jar",
+       "jar":"https://gitee.com/rrzt188/home/raw/master/jar/pg_wg240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+  {
+      "key": "csp_Kuaikan",
+      "name": "👀快看",
+      "type": 3,
+      "api": "csp_Kuaikan",
+       "jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+{
+      "key": "白嫖者",
+      "name": "🎦白嫖者联盟",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+        "副标题": "class=\"pic-text text-right\"&&</span>",
+         "jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile240725.jar",
+        "简介": "⚠️观影愉快+剧情介绍：&&</p >"
+      }
+    },
+{
+      "key": "晨光电影",
+      "name": "🎦晨光电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "剧情介绍: +white-space: initial;\">&&</div>",
+        "数组": "fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>",
+        "图片": "data-original=\"&&\"",
+        "标题": "fed-visible fed-part-eone\" href=*>&&</a>",
+        "副标题": "fed-text-white fed-text-center\">&&</span>",
+        "线路数组": "fed-drop-btns fed-padding fed-col-xs3 fed-col-md2\">&&</li>",
+         "jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile240725.jar",
+        "简介": "⚠️观影愉快+剧情介绍：&&</p >"
+        "分类url": "https://www.cgdyw.net/s/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+        "分类": "短剧$duanju#电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi"
+      }
+    },
+{
+      "key": "csp_Quanwk",
+      "name": "🥣全网看",
+      "type": 3,
+      "api": "csp_Quanwk",
+       "jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile240725.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+        "filterable": 1
+    },
+ {
+      "key": "csp_Jp-ys",
+      "name": "💮金牌",
+      "type": 3,
+      "api": "csp_Jpys",
+       "jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile240725.jar",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+{
+      "key": "csp_TianTian",
+      "name": "🦉天天",
+      "type": 3,
+      "api": "csp_TianTian",
+       "jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile240725.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
