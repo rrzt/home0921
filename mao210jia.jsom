@@ -13,7 +13,7 @@
 "lives":[
 {
       "name": "live",
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/rrzt/home/master/zhibo/listyouxuan.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/rrzt/home/master/zhibo/listyouxuan.txt",
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
