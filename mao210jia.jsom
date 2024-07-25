@@ -52,25 +52,26 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{
+
+ {
       "key": "白嫖者",
       "name": "🎦白嫖者联盟",
       "type": 3,
       "api": "csp_XBPQ",
+        "jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile240725.jar",
       "ext": {
         "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
         "副标题": "class=\"pic-text text-right\"&&</span>",
-         "jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile240725.jar",
-        "简介": "⚠️观影愉快+剧情介绍：&&</p >"
+        "简介": "⚠️观影愉快⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >"
       }
     },
-
 {
       "key": "晨光电影",
       "name": "🎦晨光电影",
       "type": 3,
       "api": "csp_XBPQ",
+       "jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile240725.jar",
       "ext": {
         "简介": "剧情介绍: +white-space: initial;\">&&</div>",
         "数组": "fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>",
@@ -79,8 +80,7 @@
         "副标题": "fed-text-white fed-text-center\">&&</span>",
         "线路数组": "fed-drop-btns fed-padding fed-col-xs3 fed-col-md2\">&&</li>",
         "分类url": "https://www.cgdyw.net/s/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
-         "jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile240725.jar",
-        "分类": "短剧$duanju#电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi"
+         "分类": "短剧$duanju#电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi"
       }
     },
 
