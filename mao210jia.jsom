@@ -52,6 +52,19 @@
       "quickSearch": 1,
       "filterable": 1
     },
+{
+      "key": "白嫖者",
+      "name": "🎦白嫖者联盟",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+        "副标题": "class=\"pic-text text-right\"&&</span>",
+         "jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile240725.jar",
+        "简介": "⚠️观影愉快+剧情介绍：&&</p >"
+      }
+    },
 
 {"key":"豪华资源","name":"🛫豪华原生┃无广","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,
             "categories": [
