@@ -52,7 +52,42 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
+{"key":"量子","name":"量子┃采集","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2.txt"},
+ {     "key":"4K",
+          "name":"🔥4K4K影视🔥",
+           "type":3,"api":"csp_XBPQ",
+	      "jar":"https://gitee.com/rrzt188/home/raw/master/jar/XBPQWG240508.jar",
+           "searchable":1,"quickSearch":1,"filterable":1,
+           "ext":{"分类url": "https://4k4k.live/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+            "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
+{
+      "key": "大象影视",
+      "name": "🐘大象影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+         "jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile240725.jar",
+      "ext": {
+        "主页url": "http://www.61tv.icu/",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "搜索模式": "1",
+        "搜索url": "http://www.61tv.icu/index.php/vod/search.html?wd={wd}",
+        "搜索数组": "module-card-item-class\">&&</a>",
+        "搜索标题": "alt=\"&&\"",
+        "搜索副标题": "note\">&&</div>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "线路数组": "data-dropdown-value=&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
+        "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+        "分类url": "http://www.61tv.icu/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
  {
       "key": "白嫖者",
       "name": "🎦白嫖者联盟",
@@ -1056,13 +1091,7 @@
            "searchable":1,"quickSearch":1,"filterable":1,
             "ext":{"分类url": "http://www.tvyb10.com/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
             "分类": "电影$1#电视剧$2#动漫$4#综艺$3"}},
-    {     "key":"4K",
-          "name":"🔥4K4K影视🔥",
-           "type":3,"api":"csp_XBPQ",
-	      "jar":"https://gitee.com/rrzt188/home/raw/master/jar/XBPQWG240508.jar",
-           "searchable":1,"quickSearch":1,"filterable":1,
-           "ext":{"分类url": "https://4k4k.live/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-            "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
+   
      {     "key":"雪糕",
             "name":"🔥雪糕影视🔥",
             "type":3,"api":"csp_XBPQ",
@@ -1721,7 +1750,7 @@
     \"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",
     \"分类\":\"电影$dianying#电视剧$lianxuju#国产剧$guochanju#港剧$gangtaiju#综艺$zongyi#动漫$dongman\",
     \"分类url\":\"https://www.aifengys.cc/show/{cateId}--------{catePg}---/\"}"},
-{"key":"csp_量子","name":"🅱️┃量子┃无广资源","type":3,"api":"csp_XBPQ", "playUrl": "","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/rrzt188/home/raw/master/jar/HCCX.jar","ext":"https://gitee.com/rrzt188/home/raw/master/js/量子资源网.json"},
+
 {"key":"49zy","name":"🍥49资源┃无广","type":1,"api":"https://49zyw.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":[
 "国产剧","纪录片","欧美剧","香港剧","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","韩国剧","动漫","电影","大陆综艺","港台综艺","日韩综艺","欧美综艺","台湾剧","国产动漫","日本动漫","欧美动漫","泰国剧","日剧","电影解说","奇幻片","灾难片","悬疑片","其他片","体育赛事","海外剧"]},
 
@@ -1889,7 +1918,7 @@
 
 {"key":"贱贱","name":"🐭贱贱┃p2p","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/jp.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2.txt"},
 {"key":"百度","name":"百度┃采集","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2.txt"},
-{"key":"量子","name":"量子┃采集","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2.txt"},
+
 
 
 {  "key": "奇虎",      "name": "🐅奇虎影视",      "type": 0,      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/at/xml/",
