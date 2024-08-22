@@ -168,12 +168,13 @@
       "name": "💮金牌",
       "type": 3,
       "api": "csp_Jpys",
-       "jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile240725.jar",
+       "jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile240822.jar",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
+
 {
       "key": "csp_TianTian",
       "name": "🦉天天",
