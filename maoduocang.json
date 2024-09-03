@@ -69,11 +69,7 @@ url:"https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@04c1ea06e8e7923e65fc7f3f3007e
 			"name": "👑荷城茶秀👑"
 		},
 	
-		{
-			"url": "http://饭太硬.top/tv",
-			"name": "👑饭有点硬👑"
-		},
-		
+	
           {
       "name": "👑潇洒仓",
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
@@ -91,10 +87,7 @@ name:"🚀运输车"
 url:"http://rihou.cc:88/荷城茶秀",
 name:"🚀荷城茶秀"
 },
-{
-url:"http://饭太硬.top/tv",
-name:"🚀饭太硬线路top"
-},
+
 
 {
 url:"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json",
@@ -139,6 +132,10 @@ name:"🚀老刘备线路"
         {
             "url": "http://live.nctv.top/X.json",
             "name": "💛阿剑💛"
+        },
+                {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/759b45c28e43473ccc391c29e2473312eeae9151/xcz.json#L2940",
+            "name": "💛采集之王💛"
         },
         {
             "url": "http://我不是.摸鱼儿.top",
