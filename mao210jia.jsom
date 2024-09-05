@@ -54,6 +54,28 @@
       "filterable": 1
     },
 {"key":"量子","name":"量子┃采集","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2.txt"},
+{
+  "key": "天堂蓝光",
+  "name": "🧿天堂蓝光",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz.jar",
+  "ext": "https://gitee.com/rrzt188/home/raw/master/js/影院蓝光.json"
+},
+{
+  "key":"机器人",
+  "name":"💡机器影视",
+  "type":3,
+  "api":"csp_Ikanbot",
+  "jar": "https://xn--bmw-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
+  "searchable":1,
+  "quickSearch":1,
+  "changeable":1,
+  "ext":"https://v.aikanbot.com"
+},
  {     "key":"4K",
           "name":"🔥4K4K影视🔥",
            "type":3,"api":"csp_XBPQ",
@@ -171,17 +193,7 @@
   "ext": "https://gitee.com/rrzt188/home/raw/master/js/采集之王.js?type=url&params=https://gitee.com/rrzt188/home/raw/master/js/采集静态.json"
 },
 
-{
-            "key": "机器人",
-            "name": "🤖机器人┃蓝光┃纯净",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "jar": "https://gitee.com/rrzt188/home/raw/master/jar/摸鱼.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://v.aikanbot.com"
-        },
+
  {
       "key": "白嫖者",
       "name": "🎦白嫖者联盟",
