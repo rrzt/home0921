@@ -991,53 +991,7 @@
       }
     },
     
- {
-            "key": "XBPQ_4k影视",
-            "name": "影视┃BPQ",
-            "jar":"https://gitee.com/rrzt188/home/raw/master/jar/XBPQWG240508.jar",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "站名": "4K影院",
-                "主页url": "https://www.4kvm.org",
-                "头部集合": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-                "热门推荐": "1",
-                "起始页": "1",
-                "直接播放": "0",
-                "倒序播放": "0",
-                "图片代理": "0",
-                "二次截取": "",
-                "数组": "<div class=\"poster\">&&<div class=\"texto\">",
-                "图片": "src=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "副标题": "class=\"icon-star2\">&&</div>",
-                "链接": "href=\"&&\"",
-                "线路数组": "<div class=\'se-q\'>&&</a>",
-                "线路标题": "class=\'title\'>&&</span>",
-                "线路链接": "href=\"&&\"",
-                "状态": "<div class=\"extra\">&&</div>",
-                "导演": "<div class=\"persons\">&&演员</h2>[不包含:导演#制片人]",
-                "简介": "<p>&&</p>",
-                "播放二次截取": "id=\'playernotice&&<div class=\"sheader\">[替换:class=\'ajax_mode\'>>>videourls:你我\"name\":1集,\"链洁\":\\&mvsource=0\"和他tables:]",
-                "播放数组": "videourls:&&tables:[替换:url\":>>链洁\":\\&ep=#name\":>>name\":第#}>>\\&source=0\"和他#{>>你我]",
-                "播放列表": "你我&&和他",
-                "播放标题": "name\":&&,",
-                "播放链接": "链洁\":&&\"",
-                "播放链接前缀": "https://www.4kvm.org/artplayer?id=+postid-&&\"",
-                "免嗅": "0",
-                "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-                "多线数组": "<div class=\'se-q\'>&&</a>",
-                "多线链接": "href=\"&&\"",
-                "搜索url": "https://www.4kvm.org/wp-json/dooplay/search/?keyword={wd}&nonce=c1c25fbc3d",
-                "搜索模式": "1",
-                "搜索数组": "{\"t&&}",
-                "搜索图片": "img\":\"&&\"",
-                "搜索标题": "itle\":\"&&\"",
-                "搜索链接": "url\":\"&&\"",
-                "分类url": "https://www.4kvm.org/{cateId}/page/{catePg};;d0",
-                "分类": "电影$movies#美剧$classify/meiju#国产剧$classify/guochan#韩剧$classify/hanju#番剧$classify/fanju"
-            }
-        },
+
         
         {
             "key": "热播库",
@@ -1125,53 +1079,7 @@
 		   "ext":{"简介":"module-info-introduction-content\">&&</div>",
 		   "分类url":"https://rabbitmv.com/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
 		   "分类":"短剧$34#电影$1#电视剧$2#综艺$4#动漫$3"}},
-{
-            "key": "4k影视11",
-            "name": "🔥4K影视🔥",
-            "type": 3,
-            "api": "csp_XBPQ",
-			 "jar":"https://gitee.com/rrzt188/home/raw/master/jar/XBPQWG240508.jar",
-            "ext": {
-                "站名": "4K影院",
-                "主页url": "https://www.4kvm.org",
-                "头部集合": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-                "热门推荐": "1",
-                "起始页": "1",
-                "直接播放": "0",
-                "倒序播放": "0",
-                "图片代理": "0",
-                "二次截取": "",
-                "数组": "<div class=\"poster\">&&<div class=\"texto\">",
-                "图片": "src=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "副标题": "class=\"icon-star2\">&&</div>",
-                "链接": "href=\"&&\"",
-                "线路数组": "<div class=\'se-q\'>&&</a>",
-                "线路标题": "class=\'title\'>&&</span>",
-                "线路链接": "href=\"&&\"",
-                "状态": "<div class=\"extra\">&&</div>",
-                "导演": "<div class=\"persons\">&&演员</h2>[不包含:导演#制片人]",
-                "简介": "<p>&&</p>",
-                "播放二次截取": "id=\'playernotice&&<div class=\"sheader\">[替换:class=\'ajax_mode\'>>>videourls:你我\"name\":1集,\"链洁\":\\&mvsource=0\"和他tables:]",
-                "播放数组": "videourls:&&tables:[替换:url\":>>链洁\":\\&ep=#name\":>>name\":第#}>>\\&source=0\"和他#{>>你我]",
-                "播放列表": "你我&&和他",
-                "播放标题": "name\":&&,",
-                "播放链接": "链洁\":&&\"",
-                "播放链接前缀": "https://www.4kvm.org/artplayer?id=+postid-&&\"",
-                "免嗅": "0",
-                "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-                "多线数组": "<div class=\'se-q\'>&&</a>",
-                "多线链接": "href=\"&&\"",
-                "搜索url": "https://www.4kvm.org/wp-json/dooplay/search/?keyword={wd}&nonce=c1c25fbc3d",
-                "搜索模式": "1",
-                "搜索数组": "{\"t&&}",
-                "搜索图片": "img\":\"&&\"",
-                "搜索标题": "itle\":\"&&\"",
-                "搜索链接": "url\":\"&&\"",
-                "分类url": "https://www.4kvm.org/{cateId}/page/{catePg};;d0",
-                "分类": "电影$movies#美剧$classify/meiju#国产剧$classify/guochan#韩剧$classify/hanju#番剧$classify/fanju"
-            }
-        }, 
+
    {"key":"追剧影视",
 				  "name":"🔥追剧影视🔥",
 				  "type":3,
@@ -1539,14 +1447,12 @@
 //{"key": "nangua","name": "🎃┃南瓜┃影视","type": 3,"playerType": "2","api": "./libs/js/drpy2.min.js","ext": "./libs/js/南瓜.js"},
 {"key":"南瓜","name":"南瓜┃App无广","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2024.txt"},
 { "key": "AppYs_南瓜", "name": "🎇南瓜┃无广", "type": 3, "playerType": 2, "api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js", "changeable": 1,"searchable": 1,"quickSearch": 1, "filterable":1,"ext": "https://gitee.com/rrzt188/home/raw/master/js/南瓜.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/0606.jar" }, 
-{"key": "js_Xinsj","name":"🐠┃视觉┃影院","type": 3,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.moeyy.cn/https://github.com/rrzt/home/blob/master/js/xsj.js"},
-{"key": "Xinsj","name": "👓视觉┃直连","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"ext": "https://www.hdmyy.com/" ,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fty.jar"},
-//{"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,//"ext":"https://www.6080yy3.com/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2.txt"}, 
+{"key": "js_Xinsj","name":"🐠┃视觉┃影院","type": 3,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/rrzt/home/master/js/xsj.js"},
+
+
     {"key": "js_bzys","name":"🌋┃B站┃影视","type": 3,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/rrzt188/home/raw/master/js/bzys240423.js"},
-//{"key": "js_bzys","name":"🌋┃B站┃影视","type": 3,"api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","searchable": 1,//"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/rrzt188/home/raw/master/js/bzys.js"},
+
  
- 
-{"key":"drpy_js_4k剧院","name":"影视 | 4k剧院[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile240423.jar","ext":"https://gitee.com/rrzt188/home/raw/master/js/4K剧院.js"},
 
 {
             "key": "虎牙资源",
@@ -2080,7 +1986,8 @@
 {"key":"csp_YQKAPP","name":"一起┃App","type":3,"api":"csp_YQKAPP","playerType":2, "playUrl": "","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://api-aws.11ty.top","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
 //{"key":"csp_kuaikan","name":"快看┃App","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
 
-{"key":"酷酷","name":"💥酷酷┃App","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/js/ky.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
+//{"key":"酷酷","name":"💥酷酷┃App","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,//"filterable":1,"ext":"https://gitee.com/rrzt188/home/raw/master/js/ky.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
+{"key": "酷酷","name": "酷酷┃APP","type": 3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable": 1,"categories":["电影","电视剧","综/艺","动漫","4K电影","4K电视剧"],"ext": "https://www.tvkuys.xyz/api.php/app/"},
 {"key":"率率","name":"💡率率┃直连","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["国产剧","韩剧","日剧","港剧","台剧","动作片","喜剧片","爱情片","科幻片","战争片","恐怖片","剧情片","国产动漫","日韩动漫","欧美动漫","大陆综艺","日韩综艺"],"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan1.txt"},
 
 {"key":"贱贱","name":"🐭贱贱┃p2p","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js/jp.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2.txt"},
@@ -2230,7 +2137,7 @@
  
 { "key": "聚合","name": "🎦┃影视聚合┃解析","type": 3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
 {  "key": "狐狸", "name": "🦊┃狐狸┃影视",  "type": 3,  "api": "csp_AppYsV2",   "playerType": "2", "ext": "https://www.kuin.one/api.php/app/"    },
- {"key": "酷酷","name": "酷酷┃APP","type": 3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable": 1,"categories":["电影","电视剧","综艺","动漫","4K电影","4K电视剧"],"ext": "https://www.tvkuys.xyz/api.php/app/"},
+ 
 {"key":"csp_xBPQ_自由影视","name":"Free影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/rrzt188/home/raw/master/MEOWXB/freeok.json","jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmileok.jar"},
 {key:'csp_QQ',name:'🐧腾讯(SP)',type:3,api:'csp_QQ',searchable:1,quickSearch:1,filterable:1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/tengxun.jar"},
  {
