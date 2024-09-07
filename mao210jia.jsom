@@ -180,6 +180,7 @@
        "filterable": 1,
       "changeable": 1
     },
+{"key":"jy","name":"金鹰┃采集","type":1,"api":"https://jinyingzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"recordable":1,"filterable":1},
 {
       "key": "zztong",
       "name": "🌃采集 ",
@@ -285,15 +286,16 @@
   "api": "https://vod38.com/api.php/provide/vod/"
 },
     {
-  "key": "hipy_js_采集之王[合]",
+  "key": "hipy_js_采集之王[合]0",
   "name": "👶采集之王",
   "type": 3,
-  "api": "https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js",
+  "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hbyhzx/hbyhzx.github.io/cfdad52acc307a2192a660bfb56f72d3156ea60b/drpy_libs/drpy2.min.js",
+   "jar":"https://gitee.com/rrzt188/home/raw/master/jar/pg240907.jar",
 "searchable": 1,
         "quickSearch": 1,
       "filterable": 1,
-  "order_num": 2100,
-  "ext": "https://gitee.com/rrzt188/home/raw/master/js/采集之王.js?type=url&params=https://gitee.com/rrzt188/home/raw/master/js/采集静态.json"
+  "order_num": 0,
+  "ext": "https://gitee.com/rrzt188/home/raw/master/js/采集之王[合].js?type=url&params=https://gitee.com/rrzt188/home/raw/master/js/采集静态.json"
 },
 
 
@@ -1971,7 +1973,7 @@
 {"key":"hn","name":"红牛┃采集","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"recordable":1,"filterable":1},
 
 {"key":"hy","name":"虎牙┃采集","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"recordable":1,"filterable":1},
-{"key":"jy","name":"金鹰┃采集","type":1,"api":"https://jinyingzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"recordable":1,"filterable":1},
+
 
 {"key":"kk","name":"夸克┃采集","type":1,"api":"https://kuakezy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"recordable":1,"filterable":1},
 {"key":"xk","name":"享看┃采集","type":1,"api":"https://xkanzy10.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"recordable":1,"filterable":1},
