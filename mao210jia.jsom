@@ -239,6 +239,7 @@
     },
 {"key":"酷看","name":"酷看┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan240806.txt" },
 //  "jar": "https://gitee.com/rrzt188/home/raw/master/jar/moyu.php",
+{"key":"蜂鸟","name":"🕊┃蜂鸟┃追剧","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,    "jar":"https://gitee.com/rrzt188/home/raw/master/jar/ncdjaj.jar","ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="},
 
   {
       "key": "追风",
