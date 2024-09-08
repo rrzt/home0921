@@ -151,19 +151,7 @@
         "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"
       }
     },
- {
-      "key": "摸鱼瓜子",
-      "name": "🍉瓜子┃超清纯净",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/Qingttkx/xiaoyugan@main/ys/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-       "jar": "https://gitee.com/rrzt188/home/raw/master/jar/moyu240908.php",
-      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
-    },
+
 
 {
       "key": "Wexkoukou",
@@ -186,6 +174,19 @@
        "quickSearch": 1,
        "filterable": 1,
       "changeable": 1
+    },
+ {
+      "key": "摸鱼瓜子",
+      "name": "🍉瓜子┃纯净",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/Qingttkx/xiaoyugan@main/ys/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+       "jar": "https://gitee.com/rrzt188/home/raw/master/jar/moyu240908.php",
+      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
     },
 {"key":"jy","name":"金鹰┃采集","type":1,"api":"https://jinyingzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"recordable":1,"filterable":1},
 {
