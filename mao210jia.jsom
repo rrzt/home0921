@@ -53,18 +53,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{
-     "key": "文采秒播",
-   "name": "💮文采┃蓝光┃秒播",
-    "type": 3,
-     "api": "csp_Jpys",
-    "jar": "https://gitee.com/rrzt188/home/raw/master/jar/fan240903.txt",
-     "playerType": 2,
-   "searchable": 1,
-     "quickSearch": 1,
-     "changeable": 1
 
-  },
     {
       "key": "文采",
       "name": "♨️文采┃蓝光┃纯净",
@@ -76,6 +65,18 @@
       "filterable": 1,
      "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=文采"
     },
+{
+     "key": "文采秒播",
+   "name": "💮文采┃蓝光┃秒播",
+    "type": 3,
+     "api": "csp_Jpys",
+    "jar": "https://gitee.com/rrzt188/home/raw/master/jar/moyu240917.php",
+     "playerType": 2,
+   "searchable": 1,
+     "quickSearch": 1,
+     "changeable": 1
+
+  },
 {"key":"量子","name":"量子┃采集","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2.txt"},
 {
   "key": "天堂蓝光",
