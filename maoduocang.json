@@ -5,8 +5,12 @@ name:"MY采集",
 url:"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/aa/main/my%E9%87%87%E9%9B%86.json"
 },
  {
-name:"无广",
+name:"旺强影视无广",
 url:"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xzqcsa/ysc/a7ada42cb433e18df7aca214482904f6f8aaa6fc/xzqzy/fty%E5%B9%B3%E6%9D%BF.json#L460"
+},
+ {
+name:"旺强影视无广2",
+url:"https://ghp.ci/https://raw.githubusercontent.com/xzqcsa/ysc/master/xzqzy/电视.json"
 },
 {
  name:"yoursmile",
