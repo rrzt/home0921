@@ -16,6 +16,10 @@ url:"https://ghp.ci/https://raw.githubusercontent.com/xzqcsa/ysc/master/xzqzy/�
 name:"wxbtt",
 url:"https://gitee.com/wxbtt/box/raw/master/box.json"
 },
+ {
+name:"小橙子专线",
+url:"https://ghp.ci/https://raw.githubusercontent.com/wzxxcz/xcz/0951189a869de37ef60ef6456dff11f206168f66/xcz.json"
+},
 {
  name:"yoursmile",
 url:"https://mirror.ghproxy.com/https://raw.githubusercontent.com/cpu170/bf/main/n/g/api.json"
