@@ -135,6 +135,47 @@
         "api": "https://gitee.com/rrzt188/home/raw/master/js/一起看.js"
     },  
     {
+      "key": "轩蓓｜专线①🏅",
+      "name": "星辰｜黄金",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/wxbtt/bbtv/raw/master/jar/dokilwss.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片类型": "黄金云",
+        "播放标题": ">&&<[不包含:1080P]",
+        "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"
+      }
+    },
+     {
+      "key": "摸鱼瓜子",
+      "name": "🍉瓜子┃纯净",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+       "jar": "https://gitee.com/rrzt188/home/raw/master/jar/moyu240917.php",
+      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
+    },
+    	{
+			"key": "hipy_js_即看影视",
+			"name": "🏅即看",
+			"type": 3,
+			"api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "http://47.99.102.252/drpy_js/即看影视.js"
+		},
+
+    {
       "key": "🔱｜耀天线🏅",
       "name": "🔱｜citytv🏅",
       "type": 3,
@@ -154,6 +195,18 @@
     },
 {"key":"drpy_js_腾云驾雾","name":"🌺腾讯┃4K🌺","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/腾云驾雾.js"},
 {"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1, "api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/百忙无果.js"},
+ {
+      "key": "醉挽清风",
+      "name": "🌺清风┃4K🌺",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
+       "jar": "https://gitee.com/rrzt188/home/raw/master/jar/moyu240917.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js"
+    },
 {
       "key": "drpy_芒果TV",
       "name": "🌺芒果┃4K🌺",
@@ -165,7 +218,19 @@
       "filterable": 1,
       "ext": "https://gitee.com/rrzt188/home/raw/master/js1/芒果TV.js"
     },
+    {
+  "key": "hipy_js_4K-AV",
+  "name": "🌺小橙子┃4K🌺",
+  "type": 3,
+  "api": "http://47.99.102.252/drpy_dzlive/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://47.99.102.252/drpy_dzlive/drpy_js/4K-AV.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz240921.jar"
+},
     {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/360影视.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fty240919.jar"},
+
 {
       "key": "drpy_搜狗视频",
       "name": "🌺搜狗视频┃4K🌺",
@@ -198,31 +263,9 @@
        "filterable": 1,
       "changeable": 1
     },
- {
-      "key": "摸鱼瓜子",
-      "name": "🍉瓜子┃纯净",
-      "type": 3,
-      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-       "jar": "https://gitee.com/rrzt188/home/raw/master/jar/moyu240917.php",
-      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
-    },
-    {
-      "key": "醉挽清风",
-      "name": "❤️清风┃4K纯净",
-      "type": 3,
-      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
-       "jar": "https://gitee.com/rrzt188/home/raw/master/jar/moyu240917.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js"
-    },
+
+
+   
 {"key":"jy","name":"金鹰┃采集","type":1,"api":"https://jinyingzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"recordable":1,"filterable":1},
 {
       "key": "zztong",
