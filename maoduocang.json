@@ -1,5 +1,10 @@
 {
 urls:[
+    https://ghp.ci/https://raw.githubusercontent.com/wzxxcz/xcz/0951189a869de37ef60ef6456dff11f206168f66/wzx.json
+ {
+name:"小橙子多仓",
+url:"https://ghp.ci/https://raw.githubusercontent.com/wzxxcz/xcz/0951189a869de37ef60ef6456dff11f206168f66/wzx.json"
+},
  {
 name:"MY采集",
 url:"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/aa/main/my%E9%87%87%E9%9B%86.json"
@@ -16,10 +21,27 @@ url:"https://ghp.ci/https://raw.githubusercontent.com/xzqcsa/ysc/master/xzqzy/�
 name:"wxbtt",
 url:"https://gitee.com/wxbtt/box/raw/master/box.json"
 },
+
  {
 name:"小橙子专线",
 url:"https://ghp.ci/https://raw.githubusercontent.com/wzxxcz/xcz/0951189a869de37ef60ef6456dff11f206168f66/xcz.json"
 },
+ {
+   "name": "玉玉线路🍊小橙子仓库",
+   "url": "https://fmbox.cc"
+  },
+  {
+   "name": "南风线路🍊小橙子仓库",
+   "url": "https://gh.con.sh/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+  },
+  {
+   "name": "好趣网🍊小橙子仓库",
+   "url": "https://gitee.com/zhan-zhaobb/MVP/raw/master/Svip.json"
+  },
+  {
+   "name": "轩轩影视🍊小橙子仓库",
+   "url": "https://gitee.com/wxbtt/xuanxuan/raw/master/4k.json"
+  },
 {
  name:"yoursmile",
 url:"https://mirror.ghproxy.com/https://raw.githubusercontent.com/cpu170/bf/main/n/g/api.json"
