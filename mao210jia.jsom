@@ -218,6 +218,17 @@
       "filterable": 1,
       "ext": "https://gitee.com/rrzt188/home/raw/master/js1/芒果TV.js"
     },
+ //   {
+  //"key": "hipy_js_4K-AV",
+ // "name": "🌺小橙子┃4K🌺",
+ // "type": 3,
+ // "api": "https://gitee.com/rrzt188/home/raw/master/lib/lib1/drpy2.min.js",
+ // "searchable": 1,
+  //"quickSearch": 1,
+ // "filterable": 1,
+  //"order_num": 0,
+ // "ext": "https://gitee.com/rrzt188/home/raw/master/js/4K-AV.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz240921.jar"
+//},
     {
   "key": "hipy_js_4K-AV",
   "name": "🌺小橙子┃4K🌺",
